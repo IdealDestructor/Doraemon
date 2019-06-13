@@ -1,0 +1,501 @@
+- categories:
+  - name: 常用
+    links:
+    - name: 虫部落
+      style: orange
+      url: https://search.chongbuluo.com/
+
+    - name: Lackar
+      style: red
+      url: http://lackar.com/aa/
+
+    - name: Medium
+      style: basic
+      url: https://medium.com/
+
+    - name: 亚马逊
+      icon: amazon yellow
+      style: basic
+      url: https://www.amazon.cn/
+
+    - name: Apple
+      style: basic
+      icon: apple grey
+      url: https://www.apple.com/
+
+    - name: 一号店
+      style: basic
+      url: https://www.yhd.com/
+
+    - name: 当当
+      style: basic
+      url: http://www.dangdang.com/
+
+    - name: 网易严选
+      style: basic
+      url: http://you.163.com/
+
+    - name: 优衣库
+      style: red
+      url: http://www.uniqlo.cn/
+
+    - name: 无印良品
+      style: basic
+      url: http://www.muji.com.cn/
+
+    - name: IKEA
+      style: yellow
+      url: https://www.ikea.cn/
+
+    - name: 造作
+      style: basic
+      url: https://zaozuo.com/
+
+    - name: 锤子科技
+      style: basic
+      url: http://www.smartisan.com/
+
+    - name: 小米商城
+      style: orange
+      url: https://www.mi.com/
+
+    - name: 小米有品
+      style: basic
+      url: https://www.xiaomiyoupin.com/
+
+  - name: 工具
+    links:
+    - name: '12306'
+      icon: train red
+      style: basic
+      url: http://www.12306.cn/
+
+    - name: 快递查询
+      icon: truck olive
+      style: basic
+      url: http://www.kuaidi100.com/
+
+    - name: 大众点评
+      icon: utensils orange
+      style: basic
+      url: http://www.dianping.com/
+
+    - name: 网易邮箱
+      icon: envelope red
+      style: basic
+      url: http://email.163.com/
+
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: https://mail.qq.com/
+
+    - name: 新浪邮箱
+      style: basic
+      url: https://mail.sina.com.cn/
+
+    - name: Gmail
+      icon: google red
+      style: basic
+      url: https://mail.google.com/
+
+    - name: 谷歌翻译
+      icon: language blue
+      style: basic
+      url: https://translate.google.com/
+
+    - name: 百度翻译
+      icon: paw blue
+      style: basic
+      url: https://fanyi.baidu.com/
+
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
+
+    - name: 彩云天气
+      icon: cloud olive
+      style: basic
+      url: http://caiyunapp.com/map
+
+    - name: 天眼查
+      style: basic
+      url: https://www.tianyancha.com/
+
+  - name: 社交
+    links:
+    - name: 微博
+      icon: weibo red
+      style: basic
+      url: https://weibo.com/
+
+    - name: 微信网页版
+      icon: weixin green
+      style: basic
+      url: https://wx.qq.com/
+
+    - name: 百度贴吧
+      icon: paw blue
+      style: basic
+      url: https://tieba.baidu.com/
+
+    - name: 知乎
+      icon: zhihu blue
+      style: basic
+      url: https://www.zhihu.com/
+
+    - name: Quora
+      icon: quora red
+      style: basic
+      url: https://www.quora.com/
+
+    - name: Facebook
+      icon: facebook f blue
+      style: basic
+      url: https://www.facebook.com/
+
+    - name: Google+
+      icon: google plus g red
+      style: basic
+      url: https://plus.google.com/
+
+    - name: Tumblr
+      icon: tumblr blue
+      style: basic
+      url: https://www.tumblr.com/
+
+    - name: Instagram
+      icon: instagram pink
+      style: basic
+      url: https://www.instagram.com/
+
+    - name: GitHub
+      icon: github black
+      style: basic
+      url: https://github.com/
+
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: https://www.linkedin.com/
+
+  - name: 学习
+    links:
+    - name: Coursera
+      style: basic
+      url: https://www.coursera.org/
+
+    - name: MOOC
+      style: basic
+      url: http://mooc.org/
+
+    - name: 网易公开课
+      style: basic
+      url: http://open.163.com/
+
+    - name: W3School
+      style: basic
+      url: http://www.w3school.com.cn/
+
+    - name: Stack Overflow
+      icon: stack overflow orange
+      style: basic
+      url: https://stackoverflow.com/
+
+    - name: SegmentFault
+      style: basic
+      url: http://segmentfault.com/
+
+    - name: Tutorials Point
+      style: basic
+      url: https://www.tutorialspoint.com/
+
+    - name: Google Open Source
+      icon: code blue
+      style: basic
+      url: https://opensource.google.com/
+
+    - name: CSDN
+      style: basic
+      url: https://edu.csdn.net/
+
+    - name: 云英语
+      style: black
+      url: http://www.y-english.org/
+
+    - name: doyoudo
+      style: black
+      url: http://www.doyoudo.com/
+
+  - name: 娱乐
+    links:
+    - name: 优酷
+      style: basic
+      url: http://www.youku.com/
+
+    # - name: 土豆
+    #   style: basic
+    #   url: http://www.tudou.com/
+
+    - name: Youtube
+      icon: youtube red
+      style: basic
+      url: http://www.youtube.com/
+
+    - name: 爱奇艺
+      style: basic
+      url: http://www.iqiyi.com/
+
+    - name: 芒果
+      style: basic
+      url: http://www.mgtv.com/
+
+    - name: 腾讯视频
+      style: basic
+      url: https://v.qq.com/
+
+    - name: 哔哩哔哩
+      style: pink
+      url: https://www.bilibili.com/
+
+    - name: 低端影视
+      style: basic
+      url: http://ddrk.me/
+
+    - name: 19影视
+      style: basic
+      url: https://www.19kan.com/
+
+    - name: Neets
+      style: basic
+      url: https://neets.cc/
+
+    - name: 人人字幕组
+      style: basic
+      url: http://www.zmz2019.com/
+
+    - name: 果汁音乐
+      style: basic
+      url: http://guozhivip.com/yinyue/
+
+    # - name: 手工耿
+    #   style: basic
+    #   url: https://space.bilibili.com/280793434/video
+
+    # - name: AcFun
+    #   style: basic
+    #   url: http://www.acfun.cn/
+
+    - name: 腾讯动漫
+      style: basic
+      url: http://ac.qq.com/
+
+    - name: 虾米
+      style: basic
+      url: http://www.xiami.com/
+
+    - name: FIX
+      style: yellow
+      url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
+
+    - name: 人人
+      style: blue
+      url: http://www.yyetss.com/
+
+    - name: 猪猪
+      style: purple
+      url: http://www.zzrbl.com/
+
+    - name: 幻樱
+      style: pink
+      url: http://www.hysub.net/
+
+    # - name: 豆瓣电影
+    #   icon: film blue
+    #   style: basic
+    #   url: https://movie.douban.com/
+
+    - name: 斗鱼
+      style: orange
+      url: https://www.douyu.com/
+
+    # - name: 多瑙影院
+    #   style: basic
+    #   url: http://www.dnvod.tv/
+
+- categories:
+  - name: 小众文艺社区
+    links:
+    - name: BandCamp
+      style: basic
+      url: https://bandcamp.com/
+
+    - name: MartinGarrix
+      style: basic
+      url: https://martingarrix.com/
+
+    - name: 有格调
+      style: basic
+      url: https://www.ugediao.com/
+
+    - name: IMDB
+      style: basic
+      url: https://www.imdb.com/
+
+    - name: WikiArt
+      style: basic
+      url: https://www.wikiart.org/
+
+    - name: SaraNightingale
+      style: basic
+      url: http://www.saranightingale.com/
+
+    - name: WeRaveYou
+      style: blue
+      url: https://weraveyou.com/
+
+    - name: Ólafur Arnalds
+      style: basic
+      url: http://olafurarnalds.com/
+
+    - name: Ludovico Einaudi
+      style: basic
+      url: http://www.ludovicoeinaudi.com/
+
+    - name: Spotify
+      style: basic
+      url: https://www.spotify.com/
+
+    - name: 时光网
+      style: basic
+      url: http://www.mtime.com/
+
+    - name: 烂番茄
+      style: basic
+      url: https://www.rottentomatoes.com/
+
+    - name: MovieCat
+      style: basic
+      url: http://www.mvcat.com/
+
+    - name: Fabrizio Paterlini
+      style: basic
+      url: http://www.fabriziopaterlini.com/
+      
+  - name: 产品/设计
+    links:
+    - name: 建筑学院
+      style: basic
+      url: http://www.archcollege.com/
+
+    - name: PMCaff
+      style: basic
+      url: https://coffee.pmcaff.com/
+
+    - name: 找到AI
+      style: teal
+      url: https://zhaodao.ai/
+
+    - name: ProductHunt
+      style: basic
+      url: https://www.producthunt.com/
+
+    - name: 如室
+      style: basic
+      url: http://www.rushi.net
+
+    - name: 少数派
+      style: basic
+      url: https://sspai.com/
+
+    - name: NEXT
+      style: basic
+      url: https://next.36kr.com/posts
+
+    - name: 果汁实验室
+      style: basic
+      url: http://guozhivip.com/nav/lab.html
+
+    - name: 微跨导航
+      style: basic
+      url: http://hao.wekua.com/pm/
+
+    - name: 七麦数据
+      style: basic
+      url: https://www.qimai.cn/rankhttps://www.qimai.cn/rank
+
+    - name: 哇噢
+      style: basic
+      url: https://wooooooow.cn/
+
+    - name: LACKK
+      style: basic
+      url: http://lackk.com/nav/
+
+    - name: 大作
+      style: basic
+      url: http://www.bigbigwork.com/
+
+    - name: ZOSCAPE
+      style: basic
+      url: https://www.zoscape.com/
+
+    - name: awwwards
+      style: basic
+      url: https://www.awwwards.com/
+
+    - name: 景观中国
+      style: basic
+      url: http://www.landscape.cn/
+
+  - name: 趣站
+    links:
+    - name: NASA
+      style: teal
+      url: https://www.nasa.gov/
+
+    - name: 100000Stars
+      style: basic
+      url: https://stars.chromeexperiments.com/
+
+    - name: goop
+      style: basic
+      url: https://goop.com/
+
+    - name: VanityFair
+      style: basic
+      url: https://www.vanityfair.com/
+
+    - name: 有用
+      style: basic
+      url: https://www.youyong.top/
+
+    - name: Moma
+      icon: app store
+      style: black
+      url: https://www.moma.org/
+
+    - name: 机核
+      style: black
+      url: https://www.gcores.com/
+
+    - name: 创意导航
+      style: basic
+      url: https://creativemass.cn/#/
+
+    - name: 推酷
+      style: basic
+      url: https://www.tuicool.com/
+
+    - name: It'snicethat
+      style: basic
+      url: https://www.itsnicethat.com/
+
+    - name: 国外网址导航
+      style: basic
+      url: https://www.egouz.com/
+
+    - name: 趣站推荐
+      style: basic
+      url: https://bigezhang.com/website/list

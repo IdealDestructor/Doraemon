@@ -1,0 +1,39 @@
+repository: duolaso/duolaso.github.io
+repository_url: https://github.com/duolaso/duolaso.github.io
+
+timezone:
+lang: zh_CN
+
+title: 哆啦A梦搜索
+alias_en: Doraemon Search
+alias_cn: 哆啦搜索导航
+description: 最好用的搜索导航
+keywords: 搜索导航,哆啦,哆啦A梦
+url: https://soultaste.github.io
+established_at: "2019-06-11T00:00+08:00"
+
+author: Francis
+author_url: https://deqiang.wang
+organization: codepoet
+organization_url: https://codepoet.cn
+contact: contact[at]idealdestructor[dot]com
+
+image: /images/logo.gif
+logo: /images/logo.gif
+logo_dark: /images/logo-dark.svg
+logo_white: /images/logo-white.svg
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor
