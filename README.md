@@ -1,12 +1,9 @@
-[![Build Status](https://travis-ci.org/BYR-Navi/BYR-Navi.svg)][travis-ci]
-[![Website](https://img.shields.io/website-up-down-green-red/https/byr-navi.com.svg)][website]
 [![License](https://img.shields.io/github/license/BYR-Navi/BYR-Navi.svg)][license]
-[![Last Commit](https://img.shields.io/github/last-commit/BYR-Navi/BYR-Navi.svg)][commit]
-[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)][saythanks]
-[![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
 
-# BYR-Navi
-A Navigation [Website][website] for BYR
+# Duola Search
+A Navigation [Website][website]
+
+Powered Py BYR-Navi
 
 ## :triangular_ruler: Design Philosophy
 This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed **previously** using [GitHub Pages][github-pages] (while currently running on a [Linode][linode] VPS).
@@ -40,13 +37,13 @@ gem install jekyll bundler
 3. Clone the project from GitHub.
 
 ```sh
-git clone https://github.com/BYR-Navi/BYR-Navi.git
+git clone https://github.com/duolaso/duolaso.git
 ```
 
 4. Change into the project directory.
 
 ```sh
-cd BYR-Navi
+cd duolaso
 ```
 
 5. Install required gems in the `Gemfile` using Bundler.
@@ -73,7 +70,7 @@ Jekyll generates your static site to the `_site` directory by default. You can t
 [Here][jekyll-manual-deployment] are some manual ways of achieving this.
 
 ## :hearts: Share the Love
-I've put a lot of time and effort into making **BYR-Navi** awesome.
+I've put a lot of time and effort into making Duola awesome.
 If you love it, you can buy me a coffee.
 Every cup helps!
 I promise it will be a good investment.
