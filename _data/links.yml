@@ -2,12 +2,12 @@
   - name: 常用
     links:
     - name: 虫部落
-      style: orange
+      style: red
       url: https://search.chongbuluo.com/
 
-    - name: Lackar
-      style: red
-      url: http://lackar.com/aa/
+    - name: 马蜂窝
+      style: orange
+      url: http://www.mafengwo.cn/
 
     - name: Medium
       style: basic
@@ -61,20 +61,20 @@
 
   - name: 工具
     links:
-    - name: '12306'
+    - name: 果壳
       icon: train red
       style: basic
-      url: http://www.12306.cn/
+      url: https://www.guokr.com/
 
     - name: 快递查询
       icon: truck olive
       style: basic
       url: http://www.kuaidi100.com/
 
-    - name: 大众点评
+    - name: 前瞻网
       icon: utensils orange
       style: basic
-      url: http://www.dianping.com/
+      url: https://www.qianzhan.com/
 
     - name: 网易邮箱
       icon: envelope red
@@ -86,9 +86,9 @@
       style: basic
       url: https://mail.qq.com/
 
-    - name: 新浪邮箱
+    - name: SoBooks
       style: basic
-      url: https://mail.sina.com.cn/
+      url: https://sobooks.cc/
 
     - name: Gmail
       icon: google red
