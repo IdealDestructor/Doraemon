@@ -13,55 +13,51 @@
       style: basic
       url: https://medium.com/
 
-    - name: 亚马逊
+    - name: Notion
       icon: amazon yellow
       style: basic
-      url: https://www.amazon.cn/
+      url: https://www.notion.so/
 
-    - name: Apple
+    - name: 印象笔记
       style: basic
       icon: apple grey
-      url: https://www.apple.com/
+      url: https://www.yinxiang.com/
 
-    - name: 一号店
+    - name: 有道云笔记
       style: basic
-      url: https://www.yhd.com/
+      url: http://note.youdao.com/
 
-    - name: 当当
+    - name: 语雀
       style: basic
-      url: http://www.dangdang.com/
+      url: https://www.yuque.com/
 
-    - name: 网易严选
+    - name: GitBook
       style: basic
-      url: http://you.163.com/
+      url: https://www.gitbook.com/
 
-    - name: 优衣库
-      style: red
-      url: http://www.uniqlo.cn/
+    - name: 百度网盘
+      style: blue
+      url: https://pan.baidu.com/
 
-    - name: 无印良品
+    - name: Steam
       style: basic
-      url: http://www.muji.com.cn/
+      url: https://store.steampowered.com/
 
-    - name: IKEA
+    - name: 石墨文档
       style: yellow
-      url: https://www.ikea.cn/
+      url: https://shimo.im/
 
-    - name: 造作
+    - name: 虎嗅网
       style: basic
-      url: https://zaozuo.com/
+      url: https://www.huxiu.com/
 
-    - name: 锤子科技
+    - name: 数字尾巴
       style: basic
-      url: http://www.smartisan.com/
+      url: http://www.dgtle.com/
 
-    - name: 小米商城
+    - name: 好奇心日报
       style: orange
-      url: https://www.mi.com/
-
-    - name: 小米有品
-      style: basic
-      url: https://www.xiaomiyoupin.com/
+      url: https://www.qdaily.com/
 
   - name: 工具
     links:
@@ -448,6 +444,10 @@
     - name: 景观中国
       style: basic
       url: http://www.landscape.cn/
+
+    - name: dribbble
+      style: basic
+      url: https://dribbble.com/
 
   - name: 趣站
     links:
