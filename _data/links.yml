@@ -414,33 +414,15 @@
     - name: 人人
       style: blue
       url: http://www.yyetss.com/
-
-    - name: 猪猪
-      style: purple
-      url: http://www.zzrbl.com/
-
-    - name: 幻樱
-      style: pink
-      url: http://www.hysub.net/
-
-    - name: 豆瓣电影
-      icon: film blue
-      style: basic
-      url: https://movie.douban.com/
-
-    # - name: 多瑙影院
-    #   style: basic
-    #   url: http://www.dnvod.tv/
-
-    - name: SoBooks
-      icon: book open
-      style: basic
-      url: https://sobooks.cc/
-
-    - name: Pixiv
-      style: basic
-      url: https://www.pixiv.net/
-
+# 
+#     - name: 猪猪
+#       style: purple
+#       url: http://www.zzrbl.com/
+# 
+#     - name: 幻樱
+#       style: pink
+#       url: http://www.hysub.net/
+# 
     - name: Steam
       style: basic
       url: https://store.steampowered.com/
@@ -448,11 +430,11 @@
     - name: 3DM
       style: basic
       url: https://www.3dmgame.com/
-
-    - name: 游侠网
-      style: basic
-      url: https://www.ali213.net/
-
+# 
+#     - name: 游侠网
+#       style: basic
+#       url: https://www.ali213.net/
+# 
 - categories:
   - name: 艺术
     links:
@@ -511,6 +493,24 @@
     - name: KajaRata
       style: basic
       url: https://kajarata.com/
+
+    - name: 豆瓣电影
+      icon: film blue
+      style: basic
+      url: https://movie.douban.com/
+
+    # - name: 多瑙影院
+    #   style: basic
+    #   url: http://www.dnvod.tv/
+
+    - name: SoBooks
+      icon: book open
+      style: basic
+      url: https://sobooks.cc/
+
+    - name: Pixiv
+      style: basic
+      url: https://www.pixiv.net/
 
   - name: 产品/设计
     links:
