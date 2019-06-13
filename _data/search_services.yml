@@ -219,3 +219,7 @@
   name: 懒人音乐
   url: http://www.zhmdy.top/music/?name=
   suffix: "&type=netease"
+
+- id: baidufanyi
+  name: 百度翻译
+  url: https://fanyi.baidu.com/#en/zh/
