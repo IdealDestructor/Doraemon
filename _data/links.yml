@@ -43,7 +43,6 @@
       url: http://www.mafengwo.cn/
 
     - name: 果壳
-      icon: train red
       style: basic
       url: https://www.guokr.com/
 
@@ -578,6 +577,7 @@
       url: http://hao.wekua.com/pm/
 
     - name: 七麦数据
+      icon: app store
       style: basic
       url: https://www.qimai.cn/rankhttps://www.qimai.cn/rank
 
@@ -633,7 +633,6 @@
       url: https://www.youyong.top/
 
     - name: Moma
-      icon: app store
       style: black
       url: https://www.moma.org/
 
@@ -692,3 +691,7 @@
     - name: 心理学空间
       style: basic
       url: https://www.psychspace.com/
+
+    - name: LeewiArt
+      style: basic
+      url: http://www.leewiart.com/WebPage/default.aspx
