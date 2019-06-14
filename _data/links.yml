@@ -87,16 +87,12 @@
       style: black
       url: https://houxu.app/
 
+    - name: AnywhereAnything
+      style: orange
+      url: http://lackar.com/aa/
+
   - name: 学习
     links:
-#     - name: 虫部落
-#       style: red
-#       url: https://search.chongbuluo.com/
-# 
-#     - name: Lackar
-#       style: orange
-#       url: http://lackar.com/aa/
-# 
     - name: Notion
       icon: sticky note outline
       style: basic
@@ -178,6 +174,30 @@
     - name: doyoudo
       style: black
       url: http://www.doyoudo.com/
+
+    - name: 万千合集站
+      style: basic
+      url: http://www.hejizhan.com/bbs/
+
+    - name: 维塔学术
+      style: basic
+      url: https://site.sciping.com/
+
+    - name: 领研网
+      style: basic
+      url: https://www.linkresearcher.com/
+
+    - name: arxiv
+      style: black
+      url: https://arxiv.org/
+
+    - name: 80学术
+      style: black
+      url: https://www.80xueshu.com/
+
+    - name: 虫部落
+      style: black
+      url: https://www.chongbuluo.com/
 
   - name: 社交
     links:
@@ -572,10 +592,6 @@
       style: basic
       url: http://guozhivip.com/nav/lab.html
 
-    - name: 微跨导航
-      style: basic
-      url: http://hao.wekua.com/pm/
-
     - name: 七麦数据
       icon: app store
       style: basic
@@ -601,13 +617,13 @@
       style: basic
       url: https://www.awwwards.com/
 
-    - name: 景观中国
-      style: basic
-      url: http://www.landscape.cn/
-
     - name: dribbble
       style: basic
       url: https://dribbble.com/
+
+    - name: 优筑导航
+      style: basic
+      url: http://www.zshid.com/?c=navigations&a=index
 
   - name: 趣站
     links:
