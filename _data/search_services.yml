@@ -27,13 +27,6 @@
     icon: map marked alternate yellow inverted
     style: black
 
-- id: baidunews
-  name: 百度资讯
-  url: https://www.baidu.com/s?ie=utf-8&tn=news&rtt=1&bsst=1&cl=2&word=
-  shortcut:
-    icon: newspaper blue inverted
-    style: black
-
 - id: wikipedia
   name: 维基百科
   url: https://www.wikipedia.org/wiki/
@@ -230,10 +223,3 @@
   shortcut:
     icon: language
     style: blue
-
-- id: wikibaike
-  name: 维基百科
-  url: https://en.wikipedia.org/wiki/
-  shortcut:
-    icon: wikipedia w
-    style: black
