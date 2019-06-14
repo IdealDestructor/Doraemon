@@ -698,5 +698,6 @@
       url: http://www.leewiart.com/WebPage/default.aspx
 
     - name: SpaceX
+      icon: spacex blue
       style: basic
       url: https://www.spacex.com/
