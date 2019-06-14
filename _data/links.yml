@@ -132,21 +132,6 @@
       style: basic
       url: https://www.jianshu.com/
 
-    - name: 谷歌翻译
-      icon: language blue
-      style: basic
-      url: https://translate.google.com/
-
-    - name: 百度翻译
-      icon: paw blue
-      style: basic
-      url: https://fanyi.baidu.com/
-
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
-
     - name: Coursera
       style: basic
       url: https://www.coursera.org/
