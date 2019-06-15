@@ -320,6 +320,9 @@
       style: basic
       url: https://cn.vuejs.org/v2/guide/
 
+    - name: 算法可视化
+      style: basic
+      url: https://visualgo.net/zh
   - name: 娱乐
     links:
     - name: 优酷
@@ -669,7 +672,7 @@
       style: green
       url: http://www.foodwake.com/
 
-    - name: 文艺TM
+    - name: 文艺
       style: basic
       url: https://wenyi.me/
 
@@ -698,6 +701,10 @@
       url: http://www.leewiart.com/WebPage/default.aspx
 
     - name: SpaceX
-      icon: spacex blue
       style: basic
       url: https://www.spacex.com/
+
+    - name: 音乐可视化
+      style: basic
+      url: http://dan.nea.me/audiolandscape/
+
