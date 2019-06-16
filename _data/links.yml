@@ -444,6 +444,10 @@
 - categories:
   - name: 艺术
     links:
+    - name: FoxMovies
+      style: basic
+      url: https://www.foxmovies.com/
+
     - name: MartinGarrix
       style: basic
       url: https://martingarrix.com/
@@ -704,7 +708,10 @@
       style: basic
       url: https://www.spacex.com/
 
-    - name: 音乐可视化
+    - name: i-D
       style: basic
-      url: http://dan.nea.me/audiolandscape/
+      url: https://lucyhardcastle-thefifthsense.i-d.co/en_gb/room/fifth
 
+    - name: ArtsandCulture
+      style: basic
+      url: https://artsandculture.google.com/project/national-park-service
