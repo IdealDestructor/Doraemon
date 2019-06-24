@@ -622,6 +622,10 @@
       style: basic
       url: http://www.zshid.com/?c=navigations&a=index
 
+    - name: 直线网
+      style: basic
+      url: http://www.linecg.com/
+
   - name: 趣站
     links:
     - name: NASA
