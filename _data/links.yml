@@ -323,6 +323,11 @@
     - name: 算法可视化
       style: basic
       url: https://visualgo.net/zh
+
+    - name: 前端导航
+      style: basic
+      url: http://nav.web-hub.cn/
+
   - name: 娱乐
     links:
     - name: 优酷
@@ -723,3 +728,7 @@
     - name: PC426
       style: basic
       url: https://www.pc426.com/
+
+    - name: MikuTools
+      style: basic
+      url: https://miku.tools/
