@@ -326,7 +326,7 @@
 
     - name: 前端导航
       style: basic
-      url: http://nav.web-hub.cn/
+      url: https://nav.web-hub.cn/
 
   - name: 娱乐
     links:
