@@ -280,7 +280,6 @@
       url: https://www.tutorialspoint.com/
 
     - name: Google Open Source
-      icon: code blue
       style: basic
       url: https://opensource.google.com/
 
@@ -308,7 +307,6 @@
       url: https://studio.dev.tencent.com/dashboard/workspace
 
     - name: Kaggle
-      icon: code blue
       style: basic
       url: https://www.kaggle.com/
 
@@ -325,11 +323,11 @@
       style: basic
       url: https://cn.vuejs.org/v2/guide/
 
-    - name: 算法可视化
+    - name: 算法
       style: basic
       url: https://visualgo.net/zh
 
-    - name: 前端导航
+    - name: 前端
       style: basic
       url: https://nav.web-hub.cn/
 
