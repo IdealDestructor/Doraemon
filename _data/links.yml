@@ -425,6 +425,10 @@
       style: yellow
       url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
 
+    - name: NoVIP
+      style: black
+      url: https://www.novipnoad.com/
+
     - name: 人人
       style: blue
       url: http://www.yyetss.com/
@@ -536,6 +540,10 @@
       style: basic
       url: http://www.woshipm.com/
 
+    - name: 经理人分享
+      style: basic
+      url: http://www.managershare.com/
+
     - name: 产品壹佰
       style: basic
       url: http://www.chanpin100.com/
@@ -628,6 +636,10 @@
     - name: 直线网
       style: basic
       url: http://www.linecg.com/
+
+    - name: 腾讯ISUX
+      style: basic
+      url: https://isux.tencent.com/
 
   - name: 趣站
     links:
