@@ -307,6 +307,11 @@
       style: basic
       url: https://studio.dev.tencent.com/dashboard/workspace
 
+    - name: Kaggle
+      icon: code blue
+      style: basic
+      url: https://www.kaggle.com/
+
     - name: 阿里云
       style: grey
       url: https://edu.aliyun.com/developer
