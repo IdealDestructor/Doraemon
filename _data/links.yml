@@ -91,6 +91,10 @@
       style: orange
       url: http://lackar.com/aa/
 
+    - name: 知微|事见
+      style: basic
+      url: http://ef.zhiweidata.com/#!/index
+
   - name: 学习
     links:
     - name: Notion
