@@ -145,7 +145,7 @@
       url: http://mooc.org/
 
     - name: 慕课网
-      style: basic
+      style: red
       url: http://www.imooc.com/course/list
 
     - name: 网易公开课
