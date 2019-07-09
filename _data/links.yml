@@ -652,6 +652,7 @@
     - name: 异次元
       style: basic
       url: https://www.iplaysoft.com/
+
   - name: 趣站
     links:
     - name: NASA
@@ -770,3 +771,7 @@
     - name: 芯次元
       style: basic
       url: https://acg.ci/
+
+    - name: NewLife
+      style: basic
+      url: https://newlife.ai/
