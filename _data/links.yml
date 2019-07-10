@@ -83,6 +83,10 @@
       style: basic
       url: https://www.theverge.com/
 
+    - name: 俄罗斯新闻通讯社
+      style: basic
+      url: https://sputniknews.com/
+
     - name: 后续
       style: black
       url: https://houxu.app/
