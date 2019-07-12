@@ -210,7 +210,7 @@
       url: https://www.zhihu.com/
 
     - name: 豆瓣
-      style: basic
+      style: green
       url: https://www.douban.com/
 
     - name: Quora
