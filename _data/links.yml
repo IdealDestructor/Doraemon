@@ -760,10 +760,6 @@
       style: basic
       url: https://artsandculture.google.com/project/national-park-service
 
-    - name: 卫星追踪
-      style: basic
-      url: http://www.chnsatcom.com/
-
     - name: PC426
       style: basic
       url: https://www.pc426.com/
