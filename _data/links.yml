@@ -339,13 +339,9 @@
       style: basic
       url: https://visualgo.net/zh
 
-    - name: 前端
+    - name: 前端导航
       style: basic
       url: https://nav.web-hub.cn/
-
-    - name: 百度前端技术学院
-      style: basic
-      url: http://ife.baidu.com/
 
   - name: 娱乐
     links:
