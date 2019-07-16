@@ -783,3 +783,7 @@
     - name: NewLife
       style: basic
       url: https://newlife.ai/
+
+    - name: Demodern
+      style: basic
+      url: https://demodern.de/
