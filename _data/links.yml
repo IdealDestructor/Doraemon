@@ -693,7 +693,7 @@
       url: https://www.moma.org/
 
     - name: 机核
-      style: black
+      style: basic
       url: https://www.gcores.com/
 
     - name: 创意导航
@@ -711,10 +711,6 @@
     - name: 国外趣站
       style: basic
       url: https://www.egouz.com/
-
-    - name: 趣站推荐
-      style: basic
-      url: https://bigezhang.com/website/list
 
     - name: Crago
       style: basic
