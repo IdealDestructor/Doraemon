@@ -672,9 +672,9 @@
       style: basic
       url: https://www.nasa.gov/
 
-    - name: 100000Stars
+    - name: 谷歌实验室
       style: basic
-      url: https://stars.chromeexperiments.com/
+      url: https://experiments.withgoogle.com/collection/chrome
 
     - name: goop
       style: basic
@@ -708,7 +708,7 @@
       style: basic
       url: https://www.itsnicethat.com/
 
-    - name: 国外网址导航
+    - name: 国外趣站
       style: basic
       url: https://www.egouz.com/
 
