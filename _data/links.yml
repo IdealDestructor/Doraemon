@@ -508,6 +508,14 @@
       style: basic
       url: http://www.ludovicoeinaudi.com/
 
+    - name: ArtStation
+      style: basic
+      url: https://www.artstation.com/
+
+    - name: Abduzeedo
+      style: basic
+      url: https://abduzeedo.com/
+
     - name: 时光网
       style: basic
       url: http://www.mtime.com/
