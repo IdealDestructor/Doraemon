@@ -79,7 +79,7 @@
       style: basic
       url: https://www.theverge.com/
 
-    - name: 俄罗斯新闻通讯社
+    - name: 俄新社
       style: basic
       url: https://sputniknews.com/
 
@@ -278,6 +278,10 @@
       style: basic
       url: https://www.shadow-forum.com/forum.php
 
+    - name: Linkedin
+      style: basic
+      url: https://www.linkedin.com/
+
   - name: 开发
     links:
     - name: W3School
@@ -302,10 +306,6 @@
       icon: terminal
       style: basic
       url: https://leetcode-cn.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
 
     - name: Google Open Source
       style: basic
