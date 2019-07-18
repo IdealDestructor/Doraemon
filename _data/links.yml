@@ -278,10 +278,6 @@
       style: yellow
       url: http://jandan.net/
 
-    - name: Linkedin
-      style: basic
-      url: https://www.linkedin.com/
-
   - name: 开发
     links:
     - name: W3School
