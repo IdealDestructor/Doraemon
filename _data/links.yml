@@ -125,7 +125,7 @@
       url: https://pan.baidu.com/
 
     - name: 石墨文档
-      style: yellow
+      style: basic
       url: https://shimo.im/
 
     - name: Medium
