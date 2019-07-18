@@ -177,7 +177,7 @@
       url: https://www.linkresearcher.com/
 
     - name: arxiv
-      style: black
+      style: basic
       url: https://arxiv.org/
 
     - name: 80学术
