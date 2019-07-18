@@ -274,9 +274,9 @@
       style: basic
       url: https://maimai.cn/
 
-    - name: 影子论坛
-      style: basic
-      url: https://www.shadow-forum.com/forum.php
+    - name: 煎蛋
+      style: yellow
+      url: http://jandan.net/
 
     - name: Linkedin
       style: basic
@@ -799,3 +799,7 @@
     - name: Demodern
       style: basic
       url: https://demodern.de/
+
+    - name: 影子论坛
+      style: basic
+      url: https://www.shadow-forum.com/forum.php
