@@ -363,10 +363,6 @@
       style: basic
       url: https://nav.web-hub.cn/
 
-    - name: OSCHINA
-      style: basic
-      url: https://www.oschina.net/
-
   - name: 娱乐
     links:
     - name: 优酷
