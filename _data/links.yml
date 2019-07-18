@@ -54,10 +54,6 @@
     - name: 黑客派
       style: basic
       url: https://hacpai.com/
-    
-    - name: V2EX
-      style: basic
-      url: https://www.v2ex.com/
 
     - name: 36氪
       style: basic
@@ -261,6 +257,26 @@
     - name: 小木虫
       style: basic
       url: http://muchong.com/
+    
+    - name: V2EX
+      style: basic
+      url: https://www.v2ex.com/
+
+    - name: 文艺
+      style: basic
+      url: https://wenyi.me/
+
+    - name: 机核
+      style: basic
+      url: https://www.gcores.com/
+
+    - name: 脉脉
+      style: basic
+      url: https://maimai.cn/
+
+    - name: 影子论坛
+      style: basic
+      url: https://www.shadow-forum.com/forum.php
 
   - name: 开发
     links:
@@ -549,6 +565,10 @@
     #   style: basic
     #   url: http://www.dnvod.tv/
 
+    - name: LeewiArt
+      style: basic
+      url: http://www.leewiart.com/WebPage/default.aspx
+
     - name: SoBooks
       icon: book open
       style: basic
@@ -700,10 +720,6 @@
       style: black
       url: https://www.moma.org/
 
-    - name: 机核
-      style: basic
-      url: https://www.gcores.com/
-
     - name: 创意导航
       style: basic
       url: https://creativemass.cn/#/
@@ -728,10 +744,6 @@
       style: green
       url: http://www.foodwake.com/
 
-    - name: 文艺
-      style: basic
-      url: https://wenyi.me/
-
     - name: 虫部落
       style: basic
       url: https://www.chongbuluo.com/
@@ -751,10 +763,6 @@
     - name: 心理学空间
       style: basic
       url: https://www.psychspace.com/
-
-    - name: LeewiArt
-      style: basic
-      url: http://www.leewiart.com/WebPage/default.aspx
 
     - name: SpaceX
       style: basic
