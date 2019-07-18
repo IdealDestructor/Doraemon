@@ -578,6 +578,10 @@
       style: basic
       url: https://www.pixiv.net/
 
+    - name: TrancePodium
+      style: basic
+      url: http://www.trancepodium.com/
+
   - name: 产品/设计
     links:
     - name: 人人都是产品经理
