@@ -18,13 +18,13 @@
       style: basic
       url: http://qingmang.me/magazines
 
-    - name: 马蜂窝
+    - name: 硅谷洞察
       style: basic
-      url: www.mafengwo.cn
+      url: http://www.svinsight.com/
 
-    - name: Feekr
+    - name: 蓝鲸财经
       style: basic
-      url: http://www.feekr.com/
+      url: https://www.lanjinger.com/
 
     - name: 虎嗅网
       style: basic
@@ -50,10 +50,6 @@
       icon: utensils orange
       style: basic
       url: https://www.qianzhan.com/
-    
-    - name: 黑客派
-      style: basic
-      url: https://hacpai.com/
 
     - name: 36氪
       style: basic
@@ -75,6 +71,10 @@
       style: basic
       url: https://www.tmtpost.com/
 
+    - name: 推酷
+      style: basic
+      url: https://www.tuicool.com/
+
     - name: TheVerge
       style: basic
       url: https://www.theverge.com/
@@ -87,13 +87,13 @@
       style: black
       url: https://houxu.app/
 
-    - name: AA
-      style: basic
-      url: http://lackar.com/aa/
-
     - name: 知微|事见
       style: basic
       url: http://ef.zhiweidata.com/#!/index
+
+    - name: AA
+      style: basic
+      url: http://lackar.com/aa/
 
   - name: 学习
     links:
@@ -261,6 +261,10 @@
     - name: V2EX
       style: basic
       url: https://www.v2ex.com/
+    
+    - name: 黑客派
+      style: basic
+      url: https://hacpai.com/
 
     - name: 文艺
       style: basic
@@ -548,6 +552,18 @@
       style: basic
       url: http://www.cnu.cc/
 
+    - name: 画旅途
+      style: basic
+      http://www.hualvtu.com/
+
+    - name: Feekr
+      style: basic
+      url: http://www.feekr.com/
+
+    - name: 马蜂窝
+      style: basic
+      url: http://www.mafengwo.cn/
+
     - name: KajaRata
       style: basic
       url: https://kajarata.com/
@@ -724,10 +740,6 @@
       style: basic
       url: https://creativemass.cn/#/
 
-    - name: 推酷
-      style: basic
-      url: https://www.tuicool.com/
-
     - name: It's nice that
       style: basic
       url: https://www.itsnicethat.com/
@@ -780,6 +792,10 @@
       style: basic
       url: https://www.pc426.com/
 
+    - name: 极客公园
+      style: basic
+      url: http://www.geekpark.net/
+
     - name: MikuTools
       style: basic
       url: https://miku.tools/
@@ -795,6 +811,10 @@
     - name: NewLife
       style: basic
       url: https://newlife.ai/
+
+    - name: 理想生活
+      style: basic
+      url: https://www.toodaylab.com/
 
     - name: Demodern
       style: basic
