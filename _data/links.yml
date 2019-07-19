@@ -38,10 +38,6 @@
       style: orange
       url: https://www.qdaily.com/
 
-    - name: 马蜂窝
-      style: basic
-      url: http://www.mafengwo.cn/
-
     - name: 果壳
       style: basic
       url: https://www.guokr.com/
