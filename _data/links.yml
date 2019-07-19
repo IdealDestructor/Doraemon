@@ -550,7 +550,7 @@
 
     - name: 画旅途
       style: basic
-      http://www.hualvtu.com/
+      url: http://www.hualvtu.com/
 
     - name: Feekr
       style: basic
