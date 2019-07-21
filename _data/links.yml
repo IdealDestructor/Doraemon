@@ -250,6 +250,10 @@
     - name: 马蜂窝
       style: basic
       url: http://www.mafengwo.cn/
+    
+    - name: 黑客派
+      style: basic
+      url: https://hacpai.com/
 
     - name: 脉脉
       style: basic
@@ -273,10 +277,6 @@
     - name: 小木虫
       style: basic
       url: http://muchong.com/
-    
-    - name: 黑客派
-      style: basic
-      url: https://hacpai.com/
 
     - name: 文艺
       style: basic
