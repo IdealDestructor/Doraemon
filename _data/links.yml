@@ -492,9 +492,9 @@
 - categories:
   - name: 艺术
     links:
-    - name: FoxMovies
+    - name: 漫威
       style: basic
-      url: https://www.foxmovies.com/
+      url: https://www.marvel.com/
 
     - name: MartinGarrix
       style: basic
@@ -823,3 +823,7 @@
     - name: 影子论坛
       style: basic
       url: https://www.shadow-forum.com/forum.php
+
+    - name: GeekQoo
+      style: basic
+      url: https://www.acg.app/
