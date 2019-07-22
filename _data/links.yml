@@ -573,6 +573,10 @@
       style: basic
       url: http://www.leewiart.com/WebPage/default.aspx
 
+    - name: 心理
+      style: basic
+      url: https://www.psychspace.com/
+
     - name: SoBooks
       icon: book open
       style: basic
@@ -771,10 +775,6 @@
     - name: 吾爱破解
       style: basic
       url: https://www.52pojie.cn/
-
-    - name: 心理学空间
-      style: basic
-      url: https://www.psychspace.com/
 
     - name: SpaceX
       style: basic
