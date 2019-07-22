@@ -808,10 +808,6 @@
       style: basic
       url: https://acg.ci/
 
-    - name: 萌乡
-      style: basic
-      url: http://www.menghuanacg.cn
-
     - name: NewLife
       style: basic
       url: https://newlife.ai/
@@ -819,6 +815,10 @@
     - name: 理想生活
       style: basic
       url: https://www.toodaylab.com/
+
+    - name: 萌乡
+      style: basic
+      url: http://www.menghuanacg.cn
 
     - name: Demodern
       style: basic
