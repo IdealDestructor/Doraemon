@@ -590,6 +590,10 @@
       style: basic
       url: https://sobooks.cc/
 
+    - name: MetalArchives
+      style: basic
+      url: https://www.metal-archives.com/
+
     - name: WeRaveYou
       style: blue
       url: https://weraveyou.com/
@@ -601,10 +605,6 @@
     - name: TrancePodium
       style: basic
       url: http://www.trancepodium.com/
-
-    - name: MetalArchives
-      style: basic
-      url: https://www.metal-archives.com/
 
   - name: 产品/设计
     links:
