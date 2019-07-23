@@ -602,6 +602,10 @@
       style: basic
       url: http://www.trancepodium.com/
 
+    - name: MetalArchives
+      style: basic
+      url: https://www.metal-archives.com/
+
   - name: 产品/设计
     links:
     - name: 人人都是产品经理
