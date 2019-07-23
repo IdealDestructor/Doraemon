@@ -103,18 +103,22 @@
       icon: evernote green
       url: https://www.yinxiang.com/
 
-    - name: 有道云笔记
-      style: basic
-      url: http://note.youdao.com/
-
     - name: 语雀
       style: basic
       url: https://www.yuque.com/
+
+    - name: 有道云笔记
+      style: basic
+      url: http://note.youdao.com/
 
     - name: GitBook
       icon: book blue
       style: basic
       url: https://www.gitbook.com/
+    
+    - name: 简书
+      style: basic
+      url: https://www.jianshu.com/
 
     - name: 百度网盘
       style: blue
@@ -127,10 +131,10 @@
     - name: Medium
       style: basic
       url: https://medium.com/
-    
-    - name: 简书
+
+    - name: 田园小站
       style: basic
-      url: https://www.jianshu.com/
+      url: https://www.tianfateng.cn/
 
     - name: Coursera
       style: basic
@@ -504,13 +508,17 @@
       style: basic
       url: https://www.ugediao.com/
 
-    - name: IMDB
+    - name: Linden Frederick
       style: basic
-      url: https://www.imdb.com/
+      url: http://www.lindenfrederick.com/
 
     - name: WikiArt
       style: basic
       url: https://www.wikiart.org/
+
+    - name: IMDB
+      style: basic
+      url: https://www.imdb.com/
 
     - name: SaraNightingale
       style: basic
@@ -569,22 +577,18 @@
       style: basic
       url: http://www.ilixiangguo.com/
 
-    - name: LeewiArt
-      style: basic
-      url: http://www.leewiart.com/WebPage/default.aspx
-
-    - name: 心理
+    - name: 心理学
       style: basic
       url: https://www.psychspace.com/
+
+    - name: 壹心理
+      style: basic
+      url: http://www.xinli001.com/
 
     - name: SoBooks
       icon: book open
       style: basic
       url: https://sobooks.cc/
-
-    - name: Pixiv
-      style: basic
-      url: https://www.pixiv.net/
 
     - name: WeRaveYou
       style: blue
@@ -713,6 +717,14 @@
       style: basic
       url: http://www.ofcourse.io/#/home
 
+    - name: LeewiArt
+      style: basic
+      url: http://www.leewiart.com/WebPage/default.aspx
+
+    - name: Pixiv
+      style: basic
+      url: https://www.pixiv.net/
+
   - name: 趣站
     links:
     - name: NASA
@@ -815,6 +827,10 @@
     - name: 理想生活
       style: basic
       url: https://www.toodaylab.com/
+
+    - name: Harpers
+      style: basic
+      url: https://harpers.org/
 
     - name: 萌乡
       style: basic
