@@ -367,6 +367,10 @@
       style: basic
       url: https://www.oschina.net/
 
+    - name: 码云
+      style: basic
+      url: https://gitee.com
+
     - name: 算法可视化
       style: basic
       url: https://visualgo.net/zh
