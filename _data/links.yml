@@ -188,6 +188,10 @@
       style: basic
       url: https://mm.edrawsoft.cn/files
 
+    - name: 外刊屋
+      style: basic
+      url: http://www.waikanwu.com/
+
   - name: 社交
     links:
     - name: 微博
