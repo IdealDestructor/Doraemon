@@ -67,6 +67,10 @@
       style: basic
       url: https://www.tmtpost.com/
 
+    - name: 今日热榜
+      style: violet
+      url: https://tophub.today/
+
     - name: 推酷
       style: basic
       url: https://www.tuicool.com/
