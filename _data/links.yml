@@ -245,10 +245,10 @@
       icon: tumblr blue
       style: basic
       url: https://www.tumblr.com/
-    
-    - name: V2EX
+
+    - name: 脉脉
       style: basic
-      url: https://www.v2ex.com/
+      url: https://maimai.cn/
 
     - name: Instagram
       icon: instagram pink
@@ -267,14 +267,14 @@
       style: basic
       url: https://hacpai.com/
 
-    - name: 脉脉
-      style: basic
-      url: https://maimai.cn/
-
     - name: LinkedIn
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
+    
+    - name: V2EX
+      style: basic
+      url: https://www.v2ex.com/
 
     - name: 网易邮箱
       icon: envelope red
