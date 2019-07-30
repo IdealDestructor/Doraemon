@@ -4,11 +4,11 @@ active_key: home
 ---
 
 {%- for section in site.data.links -%}
-    <div class="ui vertical stripe links segment">
-        <div class="ui equal width stackable internally celled grid">
-            <div class="center aligned row">
+    <div class="ui vertical stripe links segment" style="height: 100%;">
+        <div class="ui equal width stackable internally celled grid" style="height: 100%;">
+            <div class="center aligned row" style="height: 100%;">
                 {%- for category in section.categories -%}
-                    <div class="links column">
+                    <div class="links column" style="height: 100%;">
                         <div class="ui top attached label">{{ category.name }}</div>
                         <div class="ui labels">
                             {% for link in category.links %}<a class="ui {{ link.style }} label" href="{{ link.url }}" target="_blank">{% if link.icon %}<i class="{{ link.icon }} icon"></i>{% endif %}{{ link.name }}</a>{% endfor %}
