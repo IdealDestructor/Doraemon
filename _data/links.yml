@@ -725,6 +725,10 @@
       style: basic
       url: https://isux.tencent.com/
 
+    - name: 极客公园
+      style: basic
+      url: http://www.geekpark.net/
+
     - name: 异次元
       style: basic
       url: https://www.iplaysoft.com/
@@ -820,10 +824,6 @@
       style: basic
       url: https://www.pc426.com/
 
-    - name: 极客公园
-      style: basic
-      url: http://www.geekpark.net/
-
     - name: MikuTools
       style: basic
       url: https://miku.tools/
@@ -836,6 +836,14 @@
       style: basic
       url: https://acg.ci/
 
+    - name: 萌乡
+      style: basic
+      url: http://www.menghuanacg.cn
+
+    - name: 我是禽兽
+      style: basic
+      url: https://www.caozefeng.tk/
+
     - name: NewLife
       style: basic
       url: https://newlife.ai/
@@ -847,10 +855,6 @@
     - name: Harpers
       style: basic
       url: https://harpers.org/
-
-    - name: 萌乡
-      style: basic
-      url: http://www.menghuanacg.cn
 
     - name: Demodern
       style: basic
