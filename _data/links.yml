@@ -68,7 +68,7 @@
       url: https://www.tmtpost.com/
 
     - name: 今日热榜
-      style: violet
+      style: red
       url: https://tophub.today/
 
     - name: 推酷
@@ -79,7 +79,7 @@
       style: basic
       url: https://www.theverge.com/
 
-    - name: 俄新社
+    - name: 俄星社
       style: basic
       url: https://sputniknews.com/
 
