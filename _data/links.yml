@@ -10,6 +10,10 @@
       style: basic
       url: https://flipboard.com/
 
+    - name: 澎湃
+      style: basic
+      url: https://www.thepaper.cn/
+
     - name: 国家地理
       style: basic
       url: https://www.nationalgeographic.com/
