@@ -207,7 +207,7 @@
       style: basic
       url: https://weibo.com/
 
-    - name: 微信网页版
+    - name: 微信
       icon: weixin green
       style: basic
       url: https://wx.qq.com/
@@ -280,7 +280,7 @@
       style: basic
       url: https://www.v2ex.com/
 
-    - name: 163邮
+    - name: 163邮箱
       icon: envelope red
       style: basic
       url: http://email.163.com/
