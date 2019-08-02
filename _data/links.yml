@@ -375,6 +375,10 @@
       style: basic
       url: https://www.oschina.net/
 
+    - name: 牛客
+      style: basic
+      url: https://www.nowcoder.com/
+
     - name: 码云
       style: basic
       url: https://gitee.com
