@@ -753,6 +753,10 @@
       style: basic
       url: https://www.yystv.cn/
 
+    - name: 搜图
+      style: basic
+      url: https://www.91sotu.com/
+
     - name: 异次元
       style: basic
       url: https://www.iplaysoft.com/
