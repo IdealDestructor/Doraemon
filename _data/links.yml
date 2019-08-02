@@ -294,10 +294,6 @@
       style: basic
       url: https://mail.qq.com/
 
-    - name: Gmail
-      style: basic
-      url: https://mail.google.com
-
     - name: 小木虫
       style: basic
       url: http://muchong.com/
@@ -320,6 +316,10 @@
       icon: stack overflow orange
       style: basic
       url: https://stackoverflow.com/
+
+    - name: 博文
+      style: basic
+      url: https://toutiao.io/
 
     - name: SegmentFault
       style: basic
@@ -362,10 +362,6 @@
       style: basic
       url: https://studio.dev.tencent.com/dashboard/workspace
 
-    - name: Kaggle
-      style: basic
-      url: https://www.kaggle.com/
-
     - name: 阿里云
       style: grey
       url: https://edu.aliyun.com/developer
@@ -373,6 +369,18 @@
     - name: 腾讯云
       style: basic
       url: https://cloud.tencent.com/
+
+    - name: 牛客
+      style: basic
+      url: https://www.nowcoder.com/
+
+    - name: 社区
+      style: basic
+      url: https://www.githubs.cn/
+
+    - name: Kaggle
+      style: basic
+      url: https://www.kaggle.com/
 
     - name: Vue.js
       icon: vuejs green
@@ -382,10 +390,6 @@
     - name: 开源中国
       style: basic
       url: https://www.oschina.net/
-
-    - name: 牛客
-      style: basic
-      url: https://www.nowcoder.com/
 
     - name: 码云
       style: basic
