@@ -267,7 +267,12 @@
       style: basic
       url: http://www.mafengwo.cn/
 
-    - name: 水木社区
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: https://www.linkedin.com/
+
+     - name: 水木社区
       style: basic
       url: http://www.newsmth.net/nForum/#!mainpage    
 
@@ -275,11 +280,6 @@
       style: basic
       url: https://hacpai.com/
 
-    - name: LinkedIn
-      icon: linkedin blue
-      style: basic
-      url: https://www.linkedin.com/
-    
     - name: V2EX
       style: basic
       url: https://www.v2ex.com/
