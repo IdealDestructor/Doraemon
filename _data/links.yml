@@ -266,7 +266,11 @@
     - name: 马蜂窝
       style: basic
       url: http://www.mafengwo.cn/
-    
+
+    - name: 水木社区
+      style: basic
+      url: http://www.newsmth.net/nForum/#!mainpage    
+
     - name: 黑客派
       style: basic
       url: https://hacpai.com/
