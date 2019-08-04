@@ -280,13 +280,13 @@
       style: basic
       url: https://hacpai.com/
 
-    - name: V2EX
-      style: basic
-      url: https://www.v2ex.com/
-
     - name: Gmail
       style: basic
       url: https://mail.google.com
+
+    - name: V2EX
+      style: basic
+      url: https://www.v2ex.com/
 
     - name: 163邮箱
       icon: envelope red
