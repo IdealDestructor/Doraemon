@@ -272,10 +272,6 @@
       style: basic
       url: https://www.linkedin.com/
 
-    - name: 水木社
-      style: basic
-      url: http://www.newsmth.net/nForum/#!mainpage    
-
     - name: 黑客派
       style: basic
       url: https://hacpai.com/
@@ -287,6 +283,10 @@
     - name: V2EX
       style: basic
       url: https://www.v2ex.com/
+
+    - name: 小木虫
+      style: basic
+      url: http://muchong.com/
 
     - name: Gmail
       style: basic
@@ -302,9 +302,9 @@
       style: basic
       url: https://mail.qq.com/
 
-    - name: 小木虫
+    - name: 水木社区
       style: basic
-      url: http://muchong.com/
+      url: http://www.newsmth.net/nForum/#!mainpage    
 
     - name: 文艺
       style: basic
