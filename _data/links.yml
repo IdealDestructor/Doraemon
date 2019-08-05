@@ -72,7 +72,7 @@
       url: https://www.tmtpost.com/
 
     - name: 今日热榜
-      style: red
+      style: violet
       url: https://tophub.today/
 
     - name: 推酷
