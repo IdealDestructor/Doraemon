@@ -59,9 +59,13 @@
       style: basic
       url: https://www.pingwest.com/
 
-    - name: TechCrunch
+    - name: TheVerge
       style: basic
-      url: https://techcrunch.com/
+      url: https://www.theverge.com/
+
+    - name: 财新
+      style: basic
+      url: http://www.caixin.com/
 
     - name: 爱范儿
       style: basic
@@ -79,9 +83,9 @@
       style: basic
       url: https://www.tuicool.com/
 
-    - name: TheVerge
+    - name: TechCrunch
       style: basic
-      url: https://www.theverge.com/
+      url: https://techcrunch.com/
 
     - name: 俄星社
       style: basic
