@@ -95,9 +95,9 @@
       style: basic
       url: http://ef.zhiweidata.com/#!/index
 
-    - name: AA
+    - name: ReadHub
       style: basic
-      url: http://lackar.com/aa/
+      url: https://readhub.cn/topics
 
   - name: 学习
     links:
@@ -603,6 +603,10 @@
     - name: 画旅途
       style: basic
       url: http://www.hualvtu.com/
+
+    - name: 书格
+      style: basic
+      url: https://www.shuge.org/
 
     - name: KajaRata
       style: basic
