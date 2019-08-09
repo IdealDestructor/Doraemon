@@ -808,6 +808,10 @@
       style: basic
       url: https://www.vanityfair.com/
 
+    - name: wallHaven
+      style: basic
+      url: https://wallhaven.cc
+
     - name: 有用
       style: basic
       url: https://www.youyong.top/
