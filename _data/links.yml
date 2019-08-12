@@ -596,6 +596,10 @@
       style: basic
       url: http://www.mvcat.com/
 
+    - name: 读书
+      style: basic
+      url: https://www.dushu.com
+
     - name: Fabrizio Paterlini
       style: basic
       url: http://www.fabriziopaterlini.com/
