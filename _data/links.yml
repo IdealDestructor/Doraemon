@@ -592,9 +592,13 @@
       style: basic
       url: https://www.rottentomatoes.com/
 
-    - name: MovieCat
+    - name: MVCat
       style: basic
       url: http://www.mvcat.com/
+
+    - name: 书格
+      style: basic
+      url: https://www.shuge.org/
 
     - name: 读书
       style: basic
@@ -611,10 +615,6 @@
     - name: 画旅途
       style: basic
       url: http://www.hualvtu.com/
-
-    - name: 书格
-      style: basic
-      url: https://www.shuge.org/
 
     - name: KajaRata
       style: basic
