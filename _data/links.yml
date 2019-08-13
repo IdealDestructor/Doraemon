@@ -515,12 +515,12 @@
 
     - name: 解析
       style: black
-      https://vip.ccava.net
+      url: https://vip.ccava.net
 
     - name: 人人
       style: blue
       url: http://www.yyetss.com/
-# 
+
 #     - name: 猪猪
 #       style: purple
 #       url: http://www.zzrbl.com/
