@@ -510,8 +510,12 @@
       url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
 
     - name: NoVIP
-      style: black
+      style: basic
       url: https://www.novipnoad.com/
+
+    - name: 解析
+      style: black
+      https://vip.ccava.net
 
     - name: 人人
       style: blue
