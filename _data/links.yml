@@ -828,7 +828,7 @@
       style: black
       url: https://www.moma.org/
 
-    - name: 创意导航
+    - name: 创意
       style: basic
       url: https://creativemass.cn/#/
 
@@ -836,9 +836,13 @@
       style: basic
       url: https://www.itsnicethat.com/
 
-    - name: 国外趣站
+    - name: 外网
       style: basic
       url: https://www.egouz.com/
+
+    - name: 稀有
+      style: basic
+      url: http://rarer.cc/forum.php
 
     - name: Crago
       style: basic
