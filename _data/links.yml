@@ -310,6 +310,10 @@
       style: basic
       url: http://www.newsmth.net/nForum/#!mainpage    
 
+    - name: 影子
+      style: basic
+      url: https://www.shadow-forum.com/forum.php
+
     - name: 文艺
       style: basic
       url: https://wenyi.me/
@@ -680,6 +684,10 @@
       style: basic
       url: https://faxian.appinn.com/
 
+    - name: 阿猫
+      style: basic
+      url: https://dh.woshipm.com
+
     - name: 比格张
       style: basic
       url: https://bigezhang.com/
@@ -840,9 +848,9 @@
       style: basic
       url: https://www.egouz.com/
 
-    - name: 稀有
+    - name: NewLife
       style: basic
-      url: http://rarer.cc/forum.php
+      url: https://newlife.ai/
 
     - name: Crago
       style: basic
@@ -908,9 +916,17 @@
       style: basic
       url: https://www.haorenka.org/
 
-    - name: NewLife
+    - name: 稀有
       style: basic
-      url: https://newlife.ai/
+      url: http://rarer.cc/forum.php
+
+    - name: DVD
+      style: basic
+      url: http://iiidvd.top/index.php
+
+    - name: BT吧
+      style: basic
+      url: https://www.btba.cc
 
     - name: 理想生活
       style: basic
@@ -927,10 +943,6 @@
     - name: Demodern
       style: basic
       url: https://demodern.de/
-
-    - name: 影子论坛
-      style: basic
-      url: https://www.shadow-forum.com/forum.php
 
     - name: GeekQoo
       style: basic
