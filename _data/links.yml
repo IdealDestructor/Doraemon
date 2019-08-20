@@ -415,7 +415,7 @@
       style: basic
       url: https://visualgo.net/zh
 
-    - name: web
+    - name: Web
       style: basic
       url: https://nav.web-hub.cn/
     
@@ -876,7 +876,7 @@
       style: basic
       url: https://mianbaoduo.com
  
-    - name: FreeBuf
+    - name: Buf
       style: basic
       url: https://www.freebuf.com/
 
