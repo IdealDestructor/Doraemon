@@ -462,7 +462,11 @@
       style: basic
       url: http://ddrk.me/
 
-    - name: 19影视
+    - name: 屠夫
+      style: basic
+      url: http://www.tufutv8.com
+
+    - name: 19
       style: basic
       url: https://www.19kan.com/
 
