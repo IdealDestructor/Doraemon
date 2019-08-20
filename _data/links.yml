@@ -192,7 +192,7 @@
       style: basic
       url: https://arxiv.org/
 
-    - name: 80学术
+    - name: 80
       style: basic
       url: https://www.80xueshu.com/
 
@@ -203,6 +203,10 @@
     - name: 外刊屋
       style: basic
       url: http://www.waikanwu.com/
+
+    - name: 译视界
+      style: basic
+      url: https://www.1sj.tv
 
   - name: 社交
     links:
