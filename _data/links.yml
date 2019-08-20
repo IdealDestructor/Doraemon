@@ -333,7 +333,7 @@
       style: basic
       url: https://stackoverflow.com/
 
-    - name: 博文
+    - name: 头条
       style: basic
       url: https://toutiao.io/
 
@@ -411,13 +411,17 @@
       style: basic
       url: https://gitee.com
 
-    - name: 算法可视化
+    - name: 算法
       style: basic
       url: https://visualgo.net/zh
 
-    - name: 前端导航
+    - name: web
       style: basic
       url: https://nav.web-hub.cn/
+    
+    - name: AI量化
+      style: basic
+      url: https://bigquant.com
 
   - name: 娱乐
     links:
@@ -824,7 +828,7 @@
       style: basic
       url: https://www.vanityfair.com/
 
-    - name: wallHaven
+    - name: WallHaven
       style: basic
       url: https://wallhaven.cc
 
@@ -864,11 +868,15 @@
       style: basic
       url: https://www.chongbuluo.com/
 
-    - name: Collative Learning
+    - name: Collative
       style: basic
       url: http://collativelearning.com/
 
-    - name: Free Buf
+    - name: 面包多
+      style: basic
+      url: https://mianbaoduo.com
+ 
+    - name: FreeBuf
       style: basic
       url: https://www.freebuf.com/
 
@@ -912,9 +920,9 @@
       style: basic
       url: https://www.caozefeng.tk/
 
-    - name: 好人卡
+    - name: 叫神马
       style: basic
-      url: https://www.haorenka.org/
+      url: https://www.jiaosm.com
 
     - name: 稀有
       style: basic
