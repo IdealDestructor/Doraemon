@@ -736,14 +736,18 @@
       style: basic
       url: https://next.36kr.com/posts
 
-    - name: 果汁实验室
+    - name: 果汁
       style: basic
       url: http://guozhivip.com/nav/lab.html
 
-    - name: 七麦数据
+    - name: 七麦
       icon: app store
       style: basic
       url: https://www.qimai.cn/rankhttps://www.qimai.cn/rank
+
+    - name: DRock
+      style: basic
+      url: https://drockart.com
 
     - name: 哇噢
       style: basic
