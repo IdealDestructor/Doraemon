@@ -211,7 +211,24 @@
 - id: lanrenmusic
   name: 懒人音乐
   url: http://www.zhmdy.top/music/?name=
-  suffix: "&type=netease"
+  suffix: "&type=qq"
+
+- id: shodan
+  name: Shodan
+  url: https://www.shodan.io/search?query=
+
+- id: searchcode
+  name: SearchCode
+  url: https://searchcode.com/?q=
+
+- id: codeproject
+  name: CodeProject
+  url: https://www.codeproject.com/search.aspx?q=
+  suffix: "&x=7&y=9&sbo=kw"
+  
+- id: sourceforge
+  name: SourceForge
+  url: https://sourceforge.net/directory/os:windows/?q=
 
 - id: baidufanyi
   name: 百度翻译
