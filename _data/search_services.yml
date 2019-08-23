@@ -217,6 +217,10 @@
   name: Shodan
   url: https://www.shodan.io/search?query=
 
+- id: earthdata
+  name: EarthData
+  url: https://earthdata.nasa.gov/search?q=
+
 - id: searchcode
   name: SearchCode
   url: https://searchcode.com/?q=
