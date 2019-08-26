@@ -662,7 +662,11 @@
       style: basic
       url: https://sobooks.cc/
 
-    - name: MetalArchives
+    - name: Perkinson
+      style: basic
+      url: http://tomperkinson.com
+ 
+    - name: Metal
       style: basic
       url: https://www.metal-archives.com/
 
@@ -947,6 +951,10 @@
     - name: BT吧
       style: basic
       url: https://www.btba.cc
+
+    - name: 独特
+      style: basic
+      url: https://www.dute.org
 
     - name: 理想生活
       style: basic
