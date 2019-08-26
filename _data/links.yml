@@ -200,13 +200,17 @@
       style: basic
       url: https://mm.edrawsoft.cn/files
 
-    - name: 外刊屋
+    - name: 外刊
       style: basic
       url: http://www.waikanwu.com/
 
     - name: 译视界
       style: basic
       url: https://www.1sj.tv
+
+    - name: tool
+      style: basic
+      url: https://www.toolfk.com
 
   - name: 社交
     links:
