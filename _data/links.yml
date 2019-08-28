@@ -789,13 +789,17 @@
       style: basic
       url: https://archi.ru/
 
-    - name: 优筑导航
+    - name: 优筑
       style: basic
       url: http://www.zshid.com/?c=navigations&a=index
 
-    - name: 直线网
+    - name: 直线
       style: basic
       url: http://www.linecg.com/
+
+    - name: 苏塔
+      style: basic
+      url: http://sudasuta.com/
 
     - name: 腾讯ISUX
       style: basic
