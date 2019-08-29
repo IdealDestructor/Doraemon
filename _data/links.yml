@@ -376,12 +376,16 @@
       style: green
       url: https://www.runoob.com/
 
+    - name: Docs
+      style: basic
+      url: https://devdocs.io
+
     - name: codeup
       icon: laptop code
       style: basic
       url: http://codeup.cn/
 
-    - name: Cloud Studio
+    - name: 云端IDE
       icon: code blue
       style: basic
       url: https://studio.dev.tencent.com/dashboard/workspace
