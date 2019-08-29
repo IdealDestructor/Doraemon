@@ -564,9 +564,9 @@
 - categories:
   - name: 艺术
     links:
-    - name: 漫威
+    - name: Draw
       style: basic
-      url: https://www.marvel.com/
+      url: https://drawingacademy.com
 
     - name: MartinGarrix
       style: basic
