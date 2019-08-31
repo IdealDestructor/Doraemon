@@ -844,6 +844,10 @@
       style: basic
       url: https://www.nasa.gov/
 
+    - name: 宇象
+      style: basic
+      url: http://spaceweather.com
+ 
     - name: 谷歌实验室
       style: basic
       url: https://experiments.withgoogle.com/collection/chrome
@@ -852,11 +856,11 @@
       style: basic
       url: https://goop.com/
 
-    - name: Vanity Fair
+    - name: Vanity
       style: basic
       url: https://www.vanityfair.com/
 
-    - name: WallHaven
+    - name: 壁纸
       style: basic
       url: https://wallhaven.cc
 
@@ -960,9 +964,9 @@
       style: basic
       url: http://iiidvd.top/index.php
 
-    - name: 星象
+    - name: BT吧
       style: basic
-      url: http://spaceweather.com
+      url: https://www.btba.cc
 
     - name: 独特
       style: basic
