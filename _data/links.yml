@@ -593,6 +593,7 @@
       url: https://www.wikiart.org/
 
     - name: IMDB
+      icon: film yellow
       style: basic
       url: https://www.imdb.com/
 
@@ -652,10 +653,13 @@
       style: basic
       url: https://kajarata.com/
 
-    - name: 豆瓣电影
-      icon: film blue
+    - name: legacy
       style: basic
-      url: https://movie.douban.com/
+      url: https://legacygallery.com
+
+    - name: keithnash
+      style: basic
+      url: https://www.keithnash.co.uk
 
     - name: 理想国
       style: basic
@@ -669,8 +673,7 @@
       style: basic
       url: http://www.xinli001.com/
 
-    - name: SoBooks
-      icon: book open
+    - name: SoBook
       style: basic
       url: https://sobooks.cc/
 
