@@ -132,11 +132,15 @@
       style: basic
       url: https://www.jianshu.com/
 
-    - name: 百度网盘
+    - name: 网盘
       style: blue
       url: https://pan.baidu.com/
 
-    - name: 石墨文档
+    - name: 英语作文
+      style: basic
+      url: https://www.wordandphrase.info
+
+    - name: 石墨
       style: basic
       url: https://shimo.im/
 
