@@ -163,6 +163,11 @@
     from: '%'
     to: '_'
 
+- id: lingfengyun
+  name: 凌风云
+  url: https://www.lingfengyun.com/search?wd=
+  suffix: so_token=b91cf6b88266eddfd9a7b1ad0af18936&so_source=1
+
 - id: cilimao
   name: 磁力猫
   url: https://www.cilimao.cc/search?word=
