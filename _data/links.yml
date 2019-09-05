@@ -363,9 +363,10 @@
       style: basic
       url: https://leetcode-cn.com/
 
-    - name: Google Source
+    - name: CodeForge
+      icon: file code
       style: basic
-      url: https://opensource.google.com/
+      url: http://www.codeforge.cn
 
     - name: CSDN
       style: red
@@ -384,8 +385,8 @@
       style: basic
       url: https://devdocs.io
 
-    - name: codeup
-      icon: laptop code
+    - name: Codeup
+      icon: code branch
       style: basic
       url: http://codeup.cn/
 
