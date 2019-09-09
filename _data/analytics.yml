@@ -4,7 +4,7 @@ google:
 matomo:
   url: https://www.codepoet.cn/matomo/
   domains:
-  - "*.duolaso.github.io"
+  - "duolaso.github.io"
   site_id: 1
   token: a2a7bdeea2ba2a2673ab5932cae2e635
 
