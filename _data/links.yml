@@ -968,9 +968,9 @@
       style: basic
       url: https://www.jiaosm.com
 
-    - name: DVD
+    - name: EarthData
       style: basic
-      url: http://iiidvd.top/index.php
+      url: https://earthdata.nasa.gov
 
     - name: iPanda
       style: basic
