@@ -968,17 +968,13 @@
       style: basic
       url: https://www.jiaosm.com
 
-    - name: 稀有
-      style: basic
-      url: http://rarer.cc/forum.php
-
     - name: DVD
       style: basic
       url: http://iiidvd.top/index.php
 
-    - name: BT吧
+    - name: iPanda
       style: basic
-      url: https://www.btba.cc
+      url: https://www.ipanda.com
 
     - name: 独特
       style: basic
