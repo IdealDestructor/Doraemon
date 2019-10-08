@@ -459,7 +459,7 @@
       style: orange
       url: https://www.mgtv.com
 
-    - name: 腾讯视频
+    - name: 腾讯V
       style: basic
       url: https://v.qq.com/
 
@@ -467,7 +467,7 @@
       style: pink
       url: https://www.bilibili.com/
 
-    - name: 泡面
+    - name: 泡饭
       style: basic
       url: http://www.chapaofan.com
 
