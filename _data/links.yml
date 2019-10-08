@@ -446,10 +446,6 @@
       style: basic
       url: http://www.youku.com/
 
-    # - name: 土豆
-    #   style: basic
-    #   url: http://www.tudou.com/
-
     - name: Youtube
       icon: youtube red
       style: basic
@@ -460,8 +456,8 @@
       url: http://www.iqiyi.com/
 
     - name: 芒果
-      style: basic
-      url: http://www.mgtv.com/
+      style: orange
+      url: https://www.mgtv.com
 
     - name: 腾讯视频
       style: basic
@@ -470,6 +466,10 @@
     - name: 哔哩哔哩
       style: pink
       url: https://www.bilibili.com/
+
+    - name: 泡面
+      style: basic
+      url: http://www.chapaofan.com
 
     - name: 低端影视
       style: basic
