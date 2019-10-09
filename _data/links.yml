@@ -704,7 +704,7 @@
 
   - name: 产品/设计
     links:
-    - name: 人人都是产品经理
+    - name: PM
       style: basic
       url: http://www.woshipm.com/
 
@@ -723,6 +723,10 @@
     - name: 阿猫
       style: basic
       url: https://dh.woshipm.com
+
+    - name: APP Advice
+      style: basic
+      url: https://appadvice.com/
 
     - name: 比格张
       style: basic
