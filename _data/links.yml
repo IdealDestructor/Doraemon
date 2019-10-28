@@ -864,9 +864,13 @@
       style: basic
       url: http://spaceweather.com
  
-    - name: 谷歌实验室
+    - name: 谷歌lab
       style: basic
       url: https://experiments.withgoogle.com/collection/chrome
+
+    - name: Fan
+      style: basic
+      url: https://www.fandom.com
 
     - name: goop
       style: basic
