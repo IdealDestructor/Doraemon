@@ -471,7 +471,11 @@
       style: basic
       url: http://www.chapaofan.com
 
-    - name: 低端影视
+    - name: sub
+      style: basic
+      url: https://subhd.tv
+
+    - name: ddrk
       style: basic
       url: http://ddrk.me/
 
