@@ -180,11 +180,11 @@
       style: black
       url: http://www.doyoudo.com/
 
-    - name: 万千合集站
+    - name: 合集
       style: basic
       url: http://www.hejizhan.com/bbs/
 
-    - name: 维塔学术
+    - name: 维塔
       style: basic
       url: https://site.sciping.com/
 
@@ -203,6 +203,10 @@
     - name: 思维导图
       style: basic
       url: https://mm.edrawsoft.cn/files
+
+    - name: 知识分子
+      style: basic
+      url: http://www.zhishifenzi.com/
 
     - name: 外刊
       style: basic
