@@ -597,13 +597,13 @@
       style: basic
       url: https://www.allhistory.com/
 
-    - name: Draw
-      style: basic
-      url: https://drawingacademy.com
-
     - name: WikiArt
       style: basic
       url: https://www.wikiart.org/
+
+    - name: Draw
+      style: basic
+      url: https://drawingacademy.com
 
     - name: IMDB
       icon: film yellow
