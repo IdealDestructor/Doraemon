@@ -581,10 +581,6 @@
 - categories:
   - name: 文艺
     links:
-    - name: Draw
-      style: basic
-      url: https://drawingacademy.com
-
     - name: MartinGarrix
       style: basic
       url: https://martingarrix.com/
@@ -600,6 +596,10 @@
     - name: 全历史
       style: basic
       url: https://www.allhistory.com/
+
+    - name: Draw
+      style: basic
+      url: https://drawingacademy.com
 
     - name: WikiArt
       style: basic
