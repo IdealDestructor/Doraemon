@@ -579,7 +579,7 @@
 #       url: https://www.ali213.net/
 # 
 - categories:
-  - name: 艺术
+  - name: 文艺
     links:
     - name: Draw
       style: basic
@@ -593,9 +593,13 @@
       style: basic
       url: https://www.ugediao.com/
 
-    - name: Linden Frederick
+    - name: Frederick
       style: basic
       url: http://www.lindenfrederick.com/
+
+    - name: 全历史
+      style: basic
+      url: https://www.allhistory.com/
 
     - name: WikiArt
       style: basic
@@ -614,7 +618,7 @@
       style: basic
       url: http://olafurarnalds.com/
 
-    - name: Ludovico Einaudi
+    - name: Ludovico
       style: basic
       url: http://www.ludovicoeinaudi.com/
 
