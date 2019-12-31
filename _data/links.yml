@@ -176,7 +176,7 @@
       style: basic
       url: http://xuekebaba.com/
 
-    - name: doyoudo
+    - name: dyd
       style: black
       url: http://www.doyoudo.com/
 
@@ -191,6 +191,10 @@
     - name: 领研网
       style: basic
       url: https://www.linkresearcher.com/
+
+    - name: CNKI
+      style: basic
+      url: https://www.cnki.net/
 
     - name: arxiv
       style: basic

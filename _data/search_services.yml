@@ -202,6 +202,10 @@
   #   icon: map marked alternate yellow inverted
   #   style: black
 
+- id: duoji
+  name: 多吉搜索
+  url: https://www.dogedoge.com/results?q=
+
 - id: googlecn
   name: Google代理
   url: https://google.wanghualang.com/search?newwindow=1&q=
@@ -242,6 +246,11 @@
 - id: baidufanyi
   name: 百度翻译
   url: https://fanyi.baidu.com/#en/zh/
+
+- id: idata
+  name: iData
+  url: https://search.cn-ki.net/search?keyword=
+  suffix: "&db=CFLS"
 
 - id: googlefanyi
   name: 谷歌翻译
