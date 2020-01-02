@@ -984,9 +984,13 @@
       style: basic
       url: http://www.menghuanacg.cn
 
-    - name: 天文科普
+    - name: 天文
       style: basic
       url: http://www.astron.ac.cn/index.htm
+
+    - name: 集思录
+      style: basic
+      url: https://www.jisilu.cn/
 
     - name: Fotomen
       style: basic
@@ -996,7 +1000,7 @@
       style: basic
       url: https://earthdata.nasa.gov
 
-    - name: iPanda
+    - name: 熊猫
       style: basic
       url: https://www.ipanda.com
 
