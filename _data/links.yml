@@ -220,9 +220,9 @@
       style: basic
       url: https://www.1sj.tv
 
-    - name: tool
+    - name: PaperWeekly
       style: basic
-      url: https://www.toolfk.com
+      url: https://www.paperweekly.site
 
   - name: 社交
     links:
@@ -448,6 +448,10 @@
       style: basic
       url: https://bigquant.com
 
+    - name: tool
+      style: basic
+      url: https://www.toolfk.com
+
   - name: 娱乐
     links:
     - name: 优酷
@@ -577,11 +581,11 @@
     - name: 3DM
       style: basic
       url: https://www.3dmgame.com/
-# 
-#     - name: 游侠网
-#       style: basic
-#       url: https://www.ali213.net/
-# 
+
+    - name: 聚BT
+      style: basic
+      url: https://www.jubt.net/cn/index.html
+
 - categories:
   - name: 文艺
     links:
