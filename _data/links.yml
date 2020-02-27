@@ -586,6 +586,10 @@
       style: basic
       url: https://www.jubt.net/cn/index.html
 
+    - name: SoulTaste
+      style: basic
+      url: https://www.soultaste.cn
+
 - categories:
   - name: 文艺
     links:
