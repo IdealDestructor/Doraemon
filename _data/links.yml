@@ -415,9 +415,13 @@
       style: basic
       url: https://www.nowcoder.com/
 
-    - name: 社区
+    - name: Github社区
       style: basic
       url: https://www.githubs.cn/
+
+    - name: HelloGithub
+      style: basic
+      url: https://hellogithub.com
 
     - name: Kaggle
       style: basic
