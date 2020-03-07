@@ -586,13 +586,17 @@
       style: basic
       url: https://www.3dmgame.com/
 
+    - name: 奶牛关
+      style: basic
+      url: https://cowlevel.net
+
     - name: 聚BT
       style: basic
       url: https://www.jubt.net/cn/index.html
 
     - name: SoulTaste
       style: basic
-      url: https://www.soultaste.cn
+      url: http://www.soultaste.cn
 
 - categories:
   - name: 文艺
