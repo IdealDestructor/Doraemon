@@ -605,9 +605,17 @@
       style: basic
       url: https://martingarrix.com/
 
+    - name: The Midnight
+      style: basic
+      url: https://www.themidnightofficial.com
+
     - name: 有格调
       style: basic
       url: https://www.ugediao.com/
+
+    - name: Neocha
+      style: black
+      url: http://neocha.com
 
     - name: Frederick
       style: basic
