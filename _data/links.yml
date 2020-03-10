@@ -670,6 +670,10 @@
       style: basic
       url: http://www.mvcat.com/
 
+    - name: 微信读书
+      style: basic
+      url: https://weread.qq.com
+
     - name: 书格
       style: basic
       url: https://www.shuge.org/
