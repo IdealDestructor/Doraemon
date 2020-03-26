@@ -1054,4 +1054,8 @@
 
     - name: GeekQoo
       style: basic
-      url: https://www.acg.app/
+      url: https://www.acg.app
+
+    - name: 小霸王模拟器
+      style: basic
+      url: https://www.yikm.net/
