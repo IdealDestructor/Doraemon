@@ -1,9 +1,9 @@
 [![License](https://img.shields.io/github/license/BYR-Navi/BYR-Navi.svg)][license]
 
-# Duola Search
+# Doraemon Search
 A Navigation Website
 
-Powered Py BYR-Navi
+Powered Py BYR-Navi [https://github.com/BYR-Navi/BYR-Navi]
 
 ## :triangular_ruler: Design Philosophy
 This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed **previously** using [GitHub Pages][github-pages] (while currently running on a [Linode][linode] VPS).
