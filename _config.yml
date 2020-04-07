@@ -1,5 +1,5 @@
-repository: duolaso/duolaso.github.io
-repository_url: https://github.com/duolaso/duolaso.github.io
+repository: idealdestructor/Nav
+repository_url: https://github.com/idealdestructor/Nav
 
 timezone:
 lang: zh_CN
@@ -9,7 +9,7 @@ alias_en: Doraemon Search
 alias_cn: 哆啦搜索导航
 description: 最好用的搜索导航
 keywords: 搜索导航,哆啦,哆啦A梦
-url: https://duolaso.github.io
+url: https://idealdestructor.github.io/nav
 established_at: "2019-06-11T00:00+08:00"
 
 author: Francis
