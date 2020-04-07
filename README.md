@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/github/license/BYR-Navi/BYR-Navi.svg)][license]
 
 # Duola Search
-A Navigation [Website][website]
+A Navigation [Website]
 
 Powered Py BYR-Navi
 
