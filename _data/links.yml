@@ -75,9 +75,9 @@
       style: basic
       url: https://www.tmtpost.com/
 
-    - name: 今日热榜
+    - name: 鱼塘
       style: violet
-      url: https://tophub.today/
+      url: https://mo.fish/
 
     - name: 推酷
       style: basic
@@ -172,19 +172,19 @@
       style: basic
       url: https://ke.qq.com/
 
-    - name: 学客吧
+    - name: 学客巴巴
       style: basic
       url: http://xuekebaba.com/
 
-    - name: dyd
+    - name: doyoudo
       style: black
       url: http://www.doyoudo.com/
 
-    - name: 合集
+    - name: 万千合集
       style: basic
       url: http://www.hejizhan.com/bbs/
 
-    - name: 维塔
+    - name: 科塔学术
       style: basic
       url: https://site.sciping.com/
 
@@ -200,7 +200,7 @@
       style: basic
       url: https://arxiv.org/
 
-    - name: 80
+    - name: 80图书馆
       style: basic
       url: https://www.80xueshu.com/
 
@@ -283,6 +283,10 @@
       style: basic
       url: https://www.instagram.com/
 
+    - name: Discord
+      style: basic
+      url: https://discord.com/
+
     - name: Feekr
       style: basic
       url: http://www.feekr.com/
@@ -316,7 +320,7 @@
       style: basic
       url: https://mail.google.com
 
-    - name: 网易邮
+    - name: 网易邮箱
       icon: envelope red
       style: basic
       url: http://email.163.com/
@@ -330,7 +334,7 @@
       style: basic
       url: http://www.newsmth.net/nForum/#!mainpage    
 
-    - name: 影子
+    - name: 影子论坛
       style: basic
       url: https://www.shadow-forum.com/forum.php
 
@@ -398,7 +402,7 @@
       style: basic
       url: http://codeup.cn/
 
-    - name: 云端IDE
+    - name: Coding Studio
       icon: code blue
       style: basic
       url: https://studio.dev.tencent.com/dashboard/workspace
@@ -440,11 +444,11 @@
       style: basic
       url: https://gitee.com
 
-    - name: 算法
+    - name: 算法可视化
       style: basic
       url: https://visualgo.net/zh
 
-    - name: Web
+    - name: 前端导航
       style: basic
       url: https://nav.web-hub.cn/
     
@@ -452,7 +456,7 @@
       style: basic
       url: https://bigquant.com
 
-    - name: tool
+    - name: 开发工具箱
       style: basic
       url: https://www.toolfk.com
 
@@ -471,11 +475,11 @@
       style: basic
       url: http://www.iqiyi.com/
 
-    - name: 芒果
+    - name: 芒果TV
       style: orange
       url: https://www.mgtv.com
 
-    - name: 腾讯V
+    - name: 腾讯视频
       style: basic
       url: https://v.qq.com/
 
@@ -487,19 +491,19 @@
       style: basic
       url: http://www.chapaofan.com
 
-    - name: sub
+    - name: SubHD
       style: basic
       url: https://subhd.tv
 
-    - name: dd
+    - name: 低端影视
       style: basic
       url: http://ddrk.me/
 
-    - name: tuf
+    - name: 屠夫网
       style: basic
       url: http://www.tufutv8.com
 
-    - name: 19
+    - name: 19看影视
       style: basic
       url: https://www.19kan.com/
 
@@ -511,23 +515,23 @@
       style: basic
       url: http://www.zmz2019.com/
 
-    - name: dytt
+    - name: 电影天堂
       style: basic
       url: https://www.dytt8.net/
 
-    - name: 蓝调
+    - name: 蓝调网
       style: basic
       url: http://lcoc.top/2.4/
 
-    - name: 果汁
+    - name: 果汁音乐
       style: basic
       url: http://guozhivip.com/yinyue/
 
-    - name: Last
+    - name: LastFM
       style: basic
       url: https://last.fm
 
-    - name: Beat
+    - name: BeatPort
       style: basic
       url: https://www.beatport.com/
 
@@ -535,7 +539,7 @@
       style: orange
       url: http://www.xiami.com/
 
-    - name: 网易云
+    - name: 网易云音乐
       style: red
       url: https://music.163.com/
 
@@ -554,19 +558,19 @@
       style: basic
       url: https://bandcamp.com/
 
-    - name: FIX
+    - name: 字幕侠
       style: yellow
-      url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
+      url: http://www.zimuxia.cn/
 
     - name: NoVIP
       style: basic
       url: https://www.novipnoad.com/
 
-    - name: 解析
+    - name: 全能解析
       style: black
       url: https://vip.ccava.net
 
-    - name: 纪录
+    - name: 纪录片
       style: basic
       url: https://www.onehourlife.com
 
@@ -597,6 +601,10 @@
     - name: SoulTaste
       style: basic
       url: http://www.soultaste.cn
+
+    - name: Twitch
+      style: basic
+      url: http://www.twitch.com
 
 - categories:
   - name: 文艺
@@ -629,7 +637,7 @@
       style: basic
       url: https://www.wikiart.org/
 
-    - name: Draw
+    - name: rawingacademy
       style: basic
       url: https://drawingacademy.com
 
@@ -638,7 +646,7 @@
       style: basic
       url: https://www.imdb.com/
 
-    - name: Nightingale
+    - name: saraNightingale
       style: basic
       url: http://www.saranightingale.com/
 
@@ -674,6 +682,10 @@
       style: basic
       url: https://weread.qq.com
 
+    - name: 鸠摩搜书
+      style: basic
+      url: https://www.jiumodiary.com/
+
     - name: 书格
       style: basic
       url: https://www.shuge.org/
@@ -686,7 +698,7 @@
       style: basic
       url: https://www.d4j.cn
 
-    - name: Fabrizio
+    - name: FabrizioPaterlini
       style: basic
       url: http://www.fabriziopaterlini.com/
 
@@ -706,7 +718,7 @@
       style: black
       url: https://legacygallery.com
 
-    - name: keithnash
+    - name: Keithnash
       style: basic
       url: https://www.keithnash.co.uk
 
@@ -714,7 +726,7 @@
       style: basic
       url: http://www.ilixiangguo.com/
 
-    - name: 心理学
+    - name: 心理学空间
       style: basic
       url: https://www.psychspace.com/
 
@@ -730,7 +742,7 @@
       style: basic
       url: http://tomperkinson.com
  
-    - name: Metal
+    - name: MetalTomArchives
       style: basic
       url: https://www.metal-archives.com/
 
@@ -742,9 +754,13 @@
       style: basic
       url: https://www.tomorrowland.com/global/
 
-    - name: Trance
+    - name: TrancePodium
       style: basic
       url: http://www.trancepodium.com/
+
+    - name: n5md厂牌
+      style: basic
+      url: https://n5md.com/
 
   - name: 产品/设计
     links:
@@ -815,7 +831,11 @@
     - name: 七麦
       icon: app store
       style: basic
-      url: https://www.qimai.cn/rankhttps://www.qimai.cn/rank
+      url: https://www.qimai.cn/rank
+
+    - name: 极客公园
+      style: basic
+      url: https://www.geekpark.net/
 
     - name: DRock
       style: basic
@@ -857,7 +877,7 @@
       style: basic
       url: http://www.zshid.com/?c=navigations&a=index
 
-    - name: 直线
+    - name: 直线网
       style: basic
       url: http://www.linecg.com/
 
@@ -904,15 +924,15 @@
       style: basic
       url: https://www.nasa.gov/
 
-    - name: 宇象
+    - name: paceweather
       style: basic
       url: http://spaceweather.com
  
-    - name: 谷歌lab
+    - name: GoogleLab
       style: basic
       url: https://experiments.withgoogle.com/collection/chrome
 
-    - name: Fan
+    - name: Fandom
       style: basic
       url: https://www.fandom.com
 
@@ -920,11 +940,11 @@
       style: basic
       url: https://goop.com/
 
-    - name: Vanity
+    - name: Vanityfair
       style: basic
       url: https://www.vanityfair.com/
 
-    - name: 壁纸
+    - name: WallHaven
       style: basic
       url: https://wallhaven.cc
 
@@ -936,15 +956,15 @@
       style: black
       url: https://www.moma.org/
 
-    - name: 创意
+    - name: Creativemass
       style: basic
       url: https://creativemass.cn/#/
 
-    - name: Nice
+    - name: ItsNiceThat
       style: basic
       url: https://www.itsnicethat.com/
 
-    - name: 外网
+    - name: egouz
       style: basic
       url: https://www.egouz.com/
 
@@ -972,7 +992,7 @@
       style: basic
       url: https://mianbaoduo.com
  
-    - name: Buf
+    - name: freeBuf
       style: basic
       url: https://www.freebuf.com/
 
@@ -1012,7 +1032,7 @@
       style: basic
       url: http://www.menghuanacg.cn
 
-    - name: 天文
+    - name: Astron
       style: basic
       url: http://www.astron.ac.cn/index.htm
 
@@ -1028,7 +1048,7 @@
       style: basic
       url: https://earthdata.nasa.gov
 
-    - name: 熊猫
+    - name: iPanda
       style: basic
       url: https://www.ipanda.com
 
@@ -1052,10 +1072,14 @@
       style: basic
       url: https://demodern.de/
 
-    - name: GeekQoo
+    - name: iACG
       style: basic
-      url: https://www.acg.app
+      url: https://iacg.rip/
 
     - name: 小霸王模拟器
       style: basic
       url: https://www.yikm.net/
+
+    - name: Indienova
+      style: basic
+      url: https://indienova.com/
