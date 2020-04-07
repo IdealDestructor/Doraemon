@@ -18,10 +18,10 @@ organization: ~Ideal()
 organization_url: http://www.idealdestructor.com
 contact: contact[at]idealdestructor[dot]com
 
-image: /images/logo.gif
-logo: /images/logo.gif
-logo_dark: /images/logo-dark.svg
-logo_white: /images/logo-white.svg
+image: https://idealdestructor.github.io/nav/images/logo.gif
+logo: https://idealdestructor.github.io/nav/images/logo.gif
+logo_dark: https://idealdestructor.github.io/nav/images/logo-dark.svg
+logo_white: https://idealdestructor.github.io/nav/images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag
