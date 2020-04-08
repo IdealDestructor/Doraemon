@@ -103,6 +103,129 @@
       style: basic
       url: https://readhub.cn/topics
 
+- categories:
+  - name: 学习
+    links:
+    - name: Notion
+      icon: sticky note outline
+      style: basic
+      url: https://www.notion.so/
+
+    - name: 印象笔记
+      style: basic
+      icon: evernote green
+      url: https://www.yinxiang.com/
+
+    - name: 语雀
+      style: basic
+      url: https://www.yuque.com/
+
+    - name: 有道云笔记
+      style: basic
+      url: http://note.youdao.com/
+
+    - name: GitBook
+      icon: book blue
+      style: basic
+      url: https://www.gitbook.com/
+    
+    - name: 简书
+      style: basic
+      url: https://www.jianshu.com/
+
+    - name: 网盘
+      style: blue
+      url: https://pan.baidu.com/
+
+    - name: Words
+      style: basic
+      url: https://www.wordandphrase.info
+
+    - name: 石墨
+      style: basic
+      url: https://shimo.im/
+
+    - name: Medium
+      style: basic
+      url: https://medium.com/
+
+    - name: 田园小站
+      style: basic
+      url: https://www.tianfateng.cn/
+
+    - name: Coursera
+      style: basic
+      url: https://www.coursera.org/
+
+    - name: MOOC
+      style: basic
+      url: http://mooc.org/
+
+    - name: 慕课网
+      style: red
+      url: http://www.imooc.com/course/list
+
+    - name: 网易公开课
+      style: basic
+      url: http://open.163.com/
+
+    - name: 腾讯课堂
+      style: basic
+      url: https://ke.qq.com/
+
+    - name: 学客巴巴
+      style: basic
+      url: http://xuekebaba.com/
+
+    - name: doyoudo
+      style: black
+      url: http://www.doyoudo.com/
+
+    - name: 万千合集
+      style: basic
+      url: http://www.hejizhan.com/bbs/
+
+    - name: 科塔学术
+      style: basic
+      url: https://site.sciping.com/
+
+    - name: 领研网
+      style: basic
+      url: https://www.linkresearcher.com/
+
+    - name: CNKI
+      style: basic
+      url: https://www.cnki.net/
+
+    - name: arxiv
+      style: basic
+      url: https://arxiv.org/
+
+    - name: 80图书馆
+      style: basic
+      url: https://www.80xueshu.com/
+
+    - name: 思维导图
+      style: basic
+      url: https://mm.edrawsoft.cn/files
+
+    - name: 知识分子
+      style: basic
+      url: http://www.zhishifenzi.com/
+
+    - name: 外刊
+      style: basic
+      url: http://www.waikanwu.com/
+
+    - name: 译视界
+      style: basic
+      url: https://www.1sj.tv
+
+    - name: PaperWeekly
+      style: basic
+      url: https://www.paperweekly.site
+
+- categories:
   - name: 社交
     links:
     - name: 微博
@@ -225,6 +348,7 @@
       style: yellow
       url: http://jandan.net/
 
+<<<<<<< HEAD
   - name: 学习
     links:
     - name: Notion
@@ -346,6 +470,8 @@
       style: basic
       url: https://www.paperweekly.site
 
+=======
+>>>>>>> parent of 0e45281... 1625
 - categories:
   - name: 开发
     links:
@@ -616,7 +742,159 @@
       style: basic
       url: https://www.pixiv.net/
 
+<<<<<<< HEAD
   - name: 娱乐
+    links:
+    - name: 优酷
+      style: basic
+      url: http://www.youku.com/
+
+    - name: Youtube
+      icon: youtube red
+      style: basic
+      url: http://www.youtube.com/
+
+    - name: 爱奇艺
+      style: basic
+      url: http://www.iqiyi.com/
+
+    - name: 芒果TV
+      style: orange
+      url: https://www.mgtv.com
+
+    - name: 腾讯视频
+      style: basic
+      url: https://v.qq.com/
+
+    - name: 哔哩哔哩
+      style: pink
+      url: https://www.bilibili.com/
+
+    - name: 泡饭
+      style: basic
+      url: http://www.chapaofan.com
+
+    - name: SubHD
+      style: basic
+      url: https://subhd.tv
+
+    - name: 低端影视
+      style: basic
+      url: http://ddrk.me/
+
+    - name: 屠夫网
+      style: basic
+      url: http://www.tufutv8.com
+
+    - name: 19看影视
+      style: basic
+      url: https://www.19kan.com/
+
+    - name: Neets
+      style: basic
+      url: https://neets.cc/
+
+    - name: 字幕组
+      style: basic
+      url: http://www.zmz2019.com/
+
+    - name: 电影天堂
+      style: basic
+      url: https://www.dytt8.net/
+
+    - name: 蓝调网
+      style: basic
+      url: http://lcoc.top/2.4/
+
+    - name: 果汁音乐
+      style: basic
+      url: http://guozhivip.com/yinyue/
+
+    - name: LastFM
+      style: basic
+      url: https://last.fm
+
+    - name: BeatPort
+      style: basic
+      url: https://www.beatport.com/
+
+    - name: 虾米
+      style: orange
+      url: http://www.xiami.com/
+
+    - name: 网易云音乐
+      style: red
+      url: https://music.163.com/
+
+    - name: Spotify
+      icon: spotify green
+      style: basic
+      url: https://www.spotify.com/
+
+    - name: SoundCloud
+      icon: soundcloud orange
+      style: basic
+      url: https://soundcloud.com/
+
+    - name: BandCamp
+      icon: bandcamp blue
+      style: basic
+      url: https://bandcamp.com/
+
+    - name: 字幕侠
+      style: yellow
+      url: http://www.zimuxia.cn/
+
+    - name: NoVIP
+      style: basic
+      url: https://www.novipnoad.com/
+
+    - name: 全能解析
+      style: black
+      url: https://vip.ccava.net
+
+    - name: 纪录片
+      style: basic
+      url: https://www.onehourlife.com
+
+#     - name: 猪猪
+#       style: purple
+#       url: http://www.zzrbl.com/
+# 
+#     - name: 幻樱
+#       style: pink
+#       url: http://www.hysub.net/
+# 
+    - name: Steam
+      style: basic
+      url: https://store.steampowered.com/
+
+    - name: 3DM
+      style: basic
+      url: https://www.3dmgame.com/
+
+    - name: 奶牛关
+      style: basic
+      url: https://cowlevel.net
+
+    - name: 聚BT
+      style: basic
+      url: https://www.jubt.net/cn/index.html
+
+    - name: SoulTaste
+      style: basic
+      url: http://www.soultaste.cn
+
+    - name: Twitch
+      style: basic
+      url: http://www.twitch.com
+
+- categories:
+  - name: 文艺
+=======
+- categories:
+  - name: 娱乐
+>>>>>>> parent of 0e45281... 1625
     links:
     - name: 优酷
       style: basic
@@ -918,6 +1196,10 @@
       style: basic
       url: https://n5md.com/
 
+<<<<<<< HEAD
+=======
+- categories:
+>>>>>>> parent of 0e45281... 1625
   - name: 趣站
     links:
     - name: NASA
