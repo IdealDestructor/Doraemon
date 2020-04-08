@@ -1,9 +1,9 @@
 show: true
 memorial: false
-hitokoto: true
-content: Doraemon Search host has been migrated to a new data center!
+hitokoto: false
+content: More About IdealDestructor
 detail: System Operator
 color: black
 icon: shipping fast
 image: false
-link: https://duolaso.github.io/donate/
+link: https://idealdestructor.com/

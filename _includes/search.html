@@ -1,5 +1,5 @@
 <div class="ui text container">
-    <!-- {%- if site.data.banner.show -%}
+    {%- if site.data.banner.show -%}
         {%- if site.data.banner.hitokoto -%}
             <a id="hitokoto" class="ui {{ site.data.banner.color }} pointing below label"><i class="quote left icon"></i></a>
         {%- else -%}
@@ -9,7 +9,7 @@
                 <div class="ui {{ site.data.banner.color }} pointing below {% unless site.data.banner.icon %}{% if site.data.banner.image %}image {% endif %}{% endunless %}label">{% if site.data.banner.icon %}<i class="{{ site.data.banner.icon }} icon"></i>{% elsif site.data.banner.image %}<img src="{{ site.data.banner.image }}" alt="Message Image">{% endif %}{{ site.data.banner.content }}{% if site.data.banner.detail %}<div class="detail">{{ site.data.banner.detail }}</div>{% endif %}</div>
             {%- endif -%}
         {%- endif -%}
-    {%- endif -%} -->
+    {%- endif -%}
     <h1 class="ui inverted logo header">
         <img class="ui centered image" src="{{ site.logo_white }}" alt="Logo">
     </h1>
@@ -17,10 +17,10 @@
     <div class="ui inverted fluid left icon right action input" id="search-div">
         <i class="search icon"></i>
         <input id="search-query" type="text" placeholder="立即搜索" autofocus="autofocus">
-        <select id="search-services" class="ui compact selection dropdown">
+        <select style="min-width: 140px;" id="search-services" class="ui compact selection dropdown">
             {% for item in site.data.search_services %}<option id="{{ item.id }}" value="{{ item.id }}" data-url="{{ item.url }}" data-suffix="{% if item.suffix %}{{ item.suffix }}{% endif %}" data-transcode-from="{% if item.transcode %}{{ item.transcode.from }}{% endif %}" data-transcode-to="{% if item.transcode %}{{ item.transcode.to }}{% endif %}">{{ item.name }}</option>{% endfor %}
         </select>
-        <div id="search-button" class="ui black icon button">Go</div>
+        <div id="search-button" class="ui black icon button">Doraemon Go</div>
     </div>
     <div class="ui labels shortcuts">
         {% for item in site.data.search_services %}{% if item.shortcut %}<a class="ui {{ item.shortcut.style }} label" data-search-service-id="{{ item.id }}" data-tooltip="{{ item.name }}" data-variation="mini basic" data-position="top center" data-inverted=""><i class="{{ item.shortcut.icon }} fitted icon"></i></a>{% endif %}{% endfor %}
