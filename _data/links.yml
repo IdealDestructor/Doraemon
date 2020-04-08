@@ -224,7 +224,7 @@
     - name: PaperWeekly
       style: basic
       url: https://www.paperweekly.site
-	  
+
 - categories:
   - name: 社交
     links:
