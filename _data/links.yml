@@ -225,7 +225,7 @@
       style: yellow
       url: http://jandan.net/
 
--categories:
+- categories:
   - name: 学习
     links:
     - name: Notion
