@@ -225,7 +225,6 @@
       style: yellow
       url: http://jandan.net/
 
-- categories:
   - name: 学习
     links:
     - name: Notion
@@ -347,6 +346,7 @@
       style: basic
       url: https://www.paperweekly.site
 
+- categories:
   - name: 开发
     links:
     - name: W3School
@@ -461,7 +461,6 @@
       style: basic
       url: https://www.toolfk.com
 
-- categories:
   - name: 产品/设计
     links:
     - name: PM
@@ -617,6 +616,153 @@
       style: basic
       url: https://www.pixiv.net/
 
+  - name: 娱乐
+    links:
+    - name: 优酷
+      style: basic
+      url: http://www.youku.com/
+
+    - name: Youtube
+      icon: youtube red
+      style: basic
+      url: http://www.youtube.com/
+
+    - name: 爱奇艺
+      style: basic
+      url: http://www.iqiyi.com/
+
+    - name: 芒果TV
+      style: orange
+      url: https://www.mgtv.com
+
+    - name: 腾讯视频
+      style: basic
+      url: https://v.qq.com/
+
+    - name: 哔哩哔哩
+      style: pink
+      url: https://www.bilibili.com/
+
+    - name: 泡饭
+      style: basic
+      url: http://www.chapaofan.com
+
+    - name: SubHD
+      style: basic
+      url: https://subhd.tv
+
+    - name: 低端影视
+      style: basic
+      url: http://ddrk.me/
+
+    - name: 屠夫网
+      style: basic
+      url: http://www.tufutv8.com
+
+    - name: 19看影视
+      style: basic
+      url: https://www.19kan.com/
+
+    - name: Neets
+      style: basic
+      url: https://neets.cc/
+
+    - name: 字幕组
+      style: basic
+      url: http://www.zmz2019.com/
+
+    - name: 电影天堂
+      style: basic
+      url: https://www.dytt8.net/
+
+    - name: 蓝调网
+      style: basic
+      url: http://lcoc.top/2.4/
+
+    - name: 果汁音乐
+      style: basic
+      url: http://guozhivip.com/yinyue/
+
+    - name: LastFM
+      style: basic
+      url: https://last.fm
+
+    - name: BeatPort
+      style: basic
+      url: https://www.beatport.com/
+
+    - name: 虾米
+      style: orange
+      url: http://www.xiami.com/
+
+    - name: 网易云音乐
+      style: red
+      url: https://music.163.com/
+
+    - name: Spotify
+      icon: spotify green
+      style: basic
+      url: https://www.spotify.com/
+
+    - name: SoundCloud
+      icon: soundcloud orange
+      style: basic
+      url: https://soundcloud.com/
+
+    - name: BandCamp
+      icon: bandcamp blue
+      style: basic
+      url: https://bandcamp.com/
+
+    - name: 字幕侠
+      style: yellow
+      url: http://www.zimuxia.cn/
+
+    - name: NoVIP
+      style: basic
+      url: https://www.novipnoad.com/
+
+    - name: 全能解析
+      style: black
+      url: https://vip.ccava.net
+
+    - name: 纪录片
+      style: basic
+      url: https://www.onehourlife.com
+
+#     - name: 猪猪
+#       style: purple
+#       url: http://www.zzrbl.com/
+# 
+#     - name: 幻樱
+#       style: pink
+#       url: http://www.hysub.net/
+# 
+    - name: Steam
+      style: basic
+      url: https://store.steampowered.com/
+
+    - name: 3DM
+      style: basic
+      url: https://www.3dmgame.com/
+
+    - name: 奶牛关
+      style: basic
+      url: https://cowlevel.net
+
+    - name: 聚BT
+      style: basic
+      url: https://www.jubt.net/cn/index.html
+
+    - name: SoulTaste
+      style: basic
+      url: http://www.soultaste.cn
+
+    - name: Twitch
+      style: basic
+      url: http://www.twitch.com
+
+- categories:
   - name: 文艺
     links:
     - name: MartinGarrix
@@ -771,153 +917,6 @@
     - name: n5md厂牌
       style: basic
       url: https://n5md.com/
-
-- categories:
-  - name: 娱乐
-    links:
-    - name: 优酷
-      style: basic
-      url: http://www.youku.com/
-
-    - name: Youtube
-      icon: youtube red
-      style: basic
-      url: http://www.youtube.com/
-
-    - name: 爱奇艺
-      style: basic
-      url: http://www.iqiyi.com/
-
-    - name: 芒果TV
-      style: orange
-      url: https://www.mgtv.com
-
-    - name: 腾讯视频
-      style: basic
-      url: https://v.qq.com/
-
-    - name: 哔哩哔哩
-      style: pink
-      url: https://www.bilibili.com/
-
-    - name: 泡饭
-      style: basic
-      url: http://www.chapaofan.com
-
-    - name: SubHD
-      style: basic
-      url: https://subhd.tv
-
-    - name: 低端影视
-      style: basic
-      url: http://ddrk.me/
-
-    - name: 屠夫网
-      style: basic
-      url: http://www.tufutv8.com
-
-    - name: 19看影视
-      style: basic
-      url: https://www.19kan.com/
-
-    - name: Neets
-      style: basic
-      url: https://neets.cc/
-
-    - name: 字幕组
-      style: basic
-      url: http://www.zmz2019.com/
-
-    - name: 电影天堂
-      style: basic
-      url: https://www.dytt8.net/
-
-    - name: 蓝调网
-      style: basic
-      url: http://lcoc.top/2.4/
-
-    - name: 果汁音乐
-      style: basic
-      url: http://guozhivip.com/yinyue/
-
-    - name: LastFM
-      style: basic
-      url: https://last.fm
-
-    - name: BeatPort
-      style: basic
-      url: https://www.beatport.com/
-
-    - name: 虾米
-      style: orange
-      url: http://www.xiami.com/
-
-    - name: 网易云音乐
-      style: red
-      url: https://music.163.com/
-
-    - name: Spotify
-      icon: spotify green
-      style: basic
-      url: https://www.spotify.com/
-
-    - name: SoundCloud
-      icon: soundcloud orange
-      style: basic
-      url: https://soundcloud.com/
-
-    - name: BandCamp
-      icon: bandcamp blue
-      style: basic
-      url: https://bandcamp.com/
-
-    - name: 字幕侠
-      style: yellow
-      url: http://www.zimuxia.cn/
-
-    - name: NoVIP
-      style: basic
-      url: https://www.novipnoad.com/
-
-    - name: 全能解析
-      style: black
-      url: https://vip.ccava.net
-
-    - name: 纪录片
-      style: basic
-      url: https://www.onehourlife.com
-
-#     - name: 猪猪
-#       style: purple
-#       url: http://www.zzrbl.com/
-# 
-#     - name: 幻樱
-#       style: pink
-#       url: http://www.hysub.net/
-# 
-    - name: Steam
-      style: basic
-      url: https://store.steampowered.com/
-
-    - name: 3DM
-      style: basic
-      url: https://www.3dmgame.com/
-
-    - name: 奶牛关
-      style: basic
-      url: https://cowlevel.net
-
-    - name: 聚BT
-      style: basic
-      url: https://www.jubt.net/cn/index.html
-
-    - name: SoulTaste
-      style: basic
-      url: http://www.soultaste.cn
-
-    - name: Twitch
-      style: basic
-      url: http://www.twitch.com
 
   - name: 趣站
     links:
