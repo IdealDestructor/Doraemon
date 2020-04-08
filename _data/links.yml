@@ -91,6 +91,11 @@
       style: basic
       url: https://techcrunch.com/
 
+    - name: Feeder
+      icon: feeder orange
+      style: basic
+      url: https://feeder.co/
+
     - name: 俄星社
       style: basic
       url: https://sputniknews.com/
