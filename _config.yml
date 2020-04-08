@@ -1,5 +1,5 @@
-repository: idealdestructor/nav
-repository_url: https://github.com/idealdestructor/nav
+repository: idealdestructor/navi
+repository_url: https://github.com/idealdestructor/navi
 
 timezone:
 lang: zh_CN
@@ -9,7 +9,7 @@ alias_en: Doraemon Search
 alias_cn: 哆啦搜索导航
 description: 最好用的搜索导航
 keywords: 搜索导航,哆啦,哆啦A梦
-url: https://nav.idealdestructor.com/
+url: https://navi.idealdestructor.com/
 established_at: "2019-06-11T00:00+08:00"
 
 author: Francis
@@ -18,10 +18,10 @@ organization: ~Ideal()
 organization_url: http://www.idealdestructor.com
 contact: contact[at]idealdestructor[dot]com
 
-image: https://nav.idealdestructor.com/images/logo.gif
-logo: https://nav.idealdestructor.com/images/logo.gif
-logo_dark: https://nav.idealdestructor.com/images/logo-dark.svg
-logo_white: https://nav.idealdestructor.com/images/logo-white.svg
+image: https://navi.idealdestructor.com/images/logo.gif
+logo: https://navi.idealdestructor.com/images/logo.gif
+logo_dark: https://navi.idealdestructor.com/images/logo-dark.svg
+logo_white: https://navi.idealdestructor.com/images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag
