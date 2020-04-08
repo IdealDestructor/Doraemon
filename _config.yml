@@ -9,7 +9,7 @@ alias_en: Doraemon Search
 alias_cn: 哆啦搜索导航
 description: 最好用的搜索导航
 keywords: 搜索导航,哆啦,哆啦A梦
-url: https://idealdestructor.github.io/nav
+url: https://nav.idealdestructor.com/
 established_at: "2019-06-11T00:00+08:00"
 
 author: Francis
@@ -18,10 +18,10 @@ organization: ~Ideal()
 organization_url: http://www.idealdestructor.com
 contact: contact[at]idealdestructor[dot]com
 
-image: https://idealdestructor.github.io/nav/images/logo.gif
-logo: https://idealdestructor.github.io/nav/images/logo.gif
-logo_dark: https://idealdestructor.github.io/nav/images/logo-dark.svg
-logo_white: https://idealdestructor.github.io/nav/images/logo-white.svg
+image: https://nav.idealdestructor.com/images/logo.gif
+logo: https://nav.idealdestructor.com/images/logo.gif
+logo_dark: https://nav.idealdestructor.com/images/logo-dark.svg
+logo_white: https://nav.idealdestructor.com/images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag

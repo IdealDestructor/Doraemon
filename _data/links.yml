@@ -460,6 +460,7 @@
       style: basic
       url: https://www.toolfk.com
 
+- categories:
   - name: 娱乐
     links:
     - name: 优酷
@@ -606,7 +607,6 @@
       style: basic
       url: http://www.twitch.com
 
-- categories:
   - name: 文艺
     links:
     - name: MartinGarrix
@@ -762,6 +762,7 @@
       style: basic
       url: https://n5md.com/
 
+- categories:
   - name: 产品/设计
     links:
     - name: PM
