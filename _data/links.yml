@@ -103,129 +103,6 @@
       style: basic
       url: https://readhub.cn/topics
 
-- categories:
-  - name: 学习
-    links:
-    - name: Notion
-      icon: sticky note outline
-      style: basic
-      url: https://www.notion.so/
-
-    - name: 印象笔记
-      style: basic
-      icon: evernote green
-      url: https://www.yinxiang.com/
-
-    - name: 语雀
-      style: basic
-      url: https://www.yuque.com/
-
-    - name: 有道云笔记
-      style: basic
-      url: http://note.youdao.com/
-
-    - name: GitBook
-      icon: book blue
-      style: basic
-      url: https://www.gitbook.com/
-    
-    - name: 简书
-      style: basic
-      url: https://www.jianshu.com/
-
-    - name: 网盘
-      style: blue
-      url: https://pan.baidu.com/
-
-    - name: Words
-      style: basic
-      url: https://www.wordandphrase.info
-
-    - name: 石墨
-      style: basic
-      url: https://shimo.im/
-
-    - name: Medium
-      style: basic
-      url: https://medium.com/
-
-    - name: 田园小站
-      style: basic
-      url: https://www.tianfateng.cn/
-
-    - name: Coursera
-      style: basic
-      url: https://www.coursera.org/
-
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
-
-    - name: 慕课网
-      style: red
-      url: http://www.imooc.com/course/list
-
-    - name: 网易公开课
-      style: basic
-      url: http://open.163.com/
-
-    - name: 腾讯课堂
-      style: basic
-      url: https://ke.qq.com/
-
-    - name: 学客巴巴
-      style: basic
-      url: http://xuekebaba.com/
-
-    - name: doyoudo
-      style: black
-      url: http://www.doyoudo.com/
-
-    - name: 万千合集
-      style: basic
-      url: http://www.hejizhan.com/bbs/
-
-    - name: 科塔学术
-      style: basic
-      url: https://site.sciping.com/
-
-    - name: 领研网
-      style: basic
-      url: https://www.linkresearcher.com/
-
-    - name: CNKI
-      style: basic
-      url: https://www.cnki.net/
-
-    - name: arxiv
-      style: basic
-      url: https://arxiv.org/
-
-    - name: 80图书馆
-      style: basic
-      url: https://www.80xueshu.com/
-
-    - name: 思维导图
-      style: basic
-      url: https://mm.edrawsoft.cn/files
-
-    - name: 知识分子
-      style: basic
-      url: http://www.zhishifenzi.com/
-
-    - name: 外刊
-      style: basic
-      url: http://www.waikanwu.com/
-
-    - name: 译视界
-      style: basic
-      url: https://www.1sj.tv
-
-    - name: PaperWeekly
-      style: basic
-      url: https://www.paperweekly.site
-
-- categories:
   - name: 社交
     links:
     - name: 微博
@@ -348,6 +225,7 @@
       style: yellow
       url: http://jandan.net/
 
+-categories:
   - name: 学习
     links:
     - name: Notion
@@ -469,7 +347,6 @@
       style: basic
       url: https://www.paperweekly.site
 
-- categories:
   - name: 开发
     links:
     - name: W3School
@@ -584,6 +461,7 @@
       style: basic
       url: https://www.toolfk.com
 
+- categories:
   - name: 产品/设计
     links:
     - name: PM
@@ -1041,7 +919,6 @@
       style: basic
       url: https://n5md.com/
 
-- categories:
   - name: 趣站
     links:
     - name: NASA

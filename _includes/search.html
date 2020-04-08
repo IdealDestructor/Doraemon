@@ -20,7 +20,7 @@
         <select style="min-width: 140px;" id="search-services" class="ui compact selection dropdown">
             {% for item in site.data.search_services %}<option id="{{ item.id }}" value="{{ item.id }}" data-url="{{ item.url }}" data-suffix="{% if item.suffix %}{{ item.suffix }}{% endif %}" data-transcode-from="{% if item.transcode %}{{ item.transcode.from }}{% endif %}" data-transcode-to="{% if item.transcode %}{{ item.transcode.to }}{% endif %}">{{ item.name }}</option>{% endfor %}
         </select>
-        <div id="search-button" class="ui black icon button"><img src="../images/search.png"/></div>
+        <div id="search-button" class="ui black icon button"><img style="height: 18px;width: 18px;" src="../images/search.png"/></div>
     </div>
     <div class="ui labels shortcuts">
         {% for item in site.data.search_services %}{% if item.shortcut %}<a class="ui {{ item.shortcut.style }} label" data-search-service-id="{{ item.id }}" data-tooltip="{{ item.name }}" data-variation="mini basic" data-position="top center" data-inverted=""><i class="{{ item.shortcut.icon }} fitted icon"></i></a>{% endif %}{% endfor %}
@@ -33,11 +33,8 @@
         <a id="today-visitors" href="{{ '/analytics/' | relative_url }}"><img src="https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E8%AE%BF%E5%AE%A2-loading-orange.svg" alt="Today Visitors"></a>
         <a id="live-visitors" href="{{ '/analytics/' | relative_url }}"><img src="https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E5%9C%A8%E7%BA%BF-loading-orange.svg" alt="Live Visitors"></a>
     </div>-->
-<<<<<<< HEAD
     <div style="margin-top: 40px;" class="ui inverted selection link list">
-=======
     <div class="ui inverted selection link list">
->>>>>>> parent of 0e45281... 1625
         <a class="item" style="font-size: 12px;opacity: 0.5;" href="http://beian.miit.gov.cn/">津ICP备16009041号-5</a>
     </div> 
 </div>
