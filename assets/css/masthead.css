@@ -34,7 +34,7 @@
     opacity: 0.45;
 }
 .ui.inverted.masthead.segment.bg1:after {
-    background-image: url('/images/backgrounds/1.jpg');
+    background-image: url('https://source.unsplash.com/random/1920x1080');
 }
 .ui.inverted.masthead.segment.bg2:after {
     background-image: url('/images/backgrounds/2.jpg');

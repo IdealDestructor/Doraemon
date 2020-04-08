@@ -18,6 +18,10 @@
       style: basic
       url: https://www.nationalgeographic.com/
 
+    - name: Variety
+      style: basic
+      url: https://variety.com/
+
     - name: 轻芒杂志
       style: basic
       url: http://qingmang.me/magazines
@@ -138,6 +142,11 @@
       icon: twitter blue
       style: basic
       url: https://twitter.com/
+
+    - name: Reddit
+      icon: reddit orange
+      style: basic
+      url: https://reddit.com/
 
     - name: 机核
       style: basic
@@ -269,6 +278,7 @@
 
     - name: Medium
       style: basic
+      icon: medium m
       url: https://medium.com/
 
     - name: 田园小站
@@ -563,7 +573,13 @@
 
     - name: dribbble
       style: basic
+      icon: dribbble
       url: https://dribbble.com/
+
+    - name: Behance
+      style: basic
+      icon: behance blue
+      url: https://www.behance.net/
 
     - name: 如室
       style: basic
@@ -617,6 +633,163 @@
       style: basic
       url: https://www.pixiv.net/
 
+  - name: 文艺/创作
+    links:
+    - name: MartinGarrix
+      style: basic
+      url: https://martingarrix.com/
+
+    - name: The Midnight
+      style: basic
+      url: https://www.themidnightofficial.com
+
+    - name: 有格调
+      style: basic
+      url: https://www.ugediao.com/
+
+    - name: Neocha
+      style: black
+      url: http://neocha.com
+
+    - name: Frederick
+      style: basic
+      url: http://www.lindenfrederick.com/
+
+    - name: 全历史
+      style: basic
+      url: https://www.allhistory.com/
+
+    - name: WikiArt
+      style: basic
+      url: https://www.wikiart.org/
+
+    - name: rawingacademy
+      style: basic
+      url: https://drawingacademy.com
+
+    - name: IMDB
+      icon: imdb yellow
+      style: basic
+      url: https://www.imdb.com/
+
+    - name: saraNightingale
+      style: basic
+      url: http://www.saranightingale.com/
+
+    - name: Ólafur Arnalds
+      style: basic
+      url: http://olafurarnalds.com/
+
+    - name: Ludovico
+      style: basic
+      url: http://www.ludovicoeinaudi.com/
+
+    - name: ArtStation
+      icon: artstation blue
+      style: basic
+      url: https://www.artstation.com/
+
+    - name: Abduzeedo
+      style: basic
+      url: https://abduzeedo.com/
+
+    - name: 时光网
+      style: basic
+      url: http://www.mtime.com/
+
+    - name: 烂番茄
+      style: basic
+      url: https://www.rottentomatoes.com/
+
+    - name: MVCat
+      style: basic
+      url: http://www.mvcat.com/
+
+    - name: 微信读书
+      style: basic
+      url: https://weread.qq.com
+
+    - name: 鸠摩搜书
+      style: basic
+      url: https://www.jiumodiary.com/
+
+    - name: 书格
+      style: basic
+      url: https://www.shuge.org/
+
+    - name: 读书
+      style: basic
+      url: https://www.dushu.com
+
+    - name: 三秋书屋
+      style: basic
+      url: https://www.d4j.cn
+
+    - name: FabrizioPaterlini
+      style: basic
+      url: http://www.fabriziopaterlini.com/
+
+    - name: CNU视觉
+      style: basic
+      url: http://www.cnu.cc/
+
+    - name: 画旅途
+      style: basic
+      url: http://www.hualvtu.com/
+
+    - name: KajaRata
+      style: basic
+      url: https://kajarata.com/
+
+    - name: Legacy
+      style: black
+      url: https://legacygallery.com
+
+    - name: Keithnash
+      style: basic
+      url: https://www.keithnash.co.uk
+
+    - name: 理想国
+      style: basic
+      url: http://www.ilixiangguo.com/
+
+    - name: 心理学空间
+      style: basic
+      url: https://www.psychspace.com/
+
+    - name: 壹心理
+      style: basic
+      url: http://www.xinli001.com/
+
+    - name: SoBook
+      style: basic
+      url: https://sobooks.cc/
+
+    - name: Perkinson
+      style: basic
+      url: http://tomperkinson.com
+ 
+    - name: MetalTomArchives
+      style: basic
+      url: https://www.metal-archives.com/
+
+    - name: WeRaveYou
+      style: blue
+      url: https://weraveyou.com/
+
+    - name: TomorrowLand
+      style: basic
+      url: https://www.tomorrowland.com/global/
+
+    - name: TrancePodium
+      style: basic
+      url: http://www.trancepodium.com/
+
+    - name: n5md厂牌
+      style: basic
+      url: https://n5md.com/
+
+- categories:
   - name: 娱乐
     links:
     - name: 优酷
@@ -741,6 +914,7 @@
 # 
     - name: Steam
       style: basic
+      icon: steam blue
       url: https://store.steampowered.com/
 
     - name: 3DM
@@ -760,164 +934,9 @@
       url: http://www.soultaste.cn
 
     - name: Twitch
+      icon: twitch purple
       style: basic
       url: http://www.twitch.com
-
-- categories:
-  - name: 文艺
-    links:
-    - name: MartinGarrix
-      style: basic
-      url: https://martingarrix.com/
-
-    - name: The Midnight
-      style: basic
-      url: https://www.themidnightofficial.com
-
-    - name: 有格调
-      style: basic
-      url: https://www.ugediao.com/
-
-    - name: Neocha
-      style: black
-      url: http://neocha.com
-
-    - name: Frederick
-      style: basic
-      url: http://www.lindenfrederick.com/
-
-    - name: 全历史
-      style: basic
-      url: https://www.allhistory.com/
-
-    - name: WikiArt
-      style: basic
-      url: https://www.wikiart.org/
-
-    - name: rawingacademy
-      style: basic
-      url: https://drawingacademy.com
-
-    - name: IMDB
-      icon: film yellow
-      style: basic
-      url: https://www.imdb.com/
-
-    - name: saraNightingale
-      style: basic
-      url: http://www.saranightingale.com/
-
-    - name: Ólafur Arnalds
-      style: basic
-      url: http://olafurarnalds.com/
-
-    - name: Ludovico
-      style: basic
-      url: http://www.ludovicoeinaudi.com/
-
-    - name: ArtStation
-      style: basic
-      url: https://www.artstation.com/
-
-    - name: Abduzeedo
-      style: basic
-      url: https://abduzeedo.com/
-
-    - name: 时光网
-      style: basic
-      url: http://www.mtime.com/
-
-    - name: 烂番茄
-      style: basic
-      url: https://www.rottentomatoes.com/
-
-    - name: MVCat
-      style: basic
-      url: http://www.mvcat.com/
-
-    - name: 微信读书
-      style: basic
-      url: https://weread.qq.com
-
-    - name: 鸠摩搜书
-      style: basic
-      url: https://www.jiumodiary.com/
-
-    - name: 书格
-      style: basic
-      url: https://www.shuge.org/
-
-    - name: 读书
-      style: basic
-      url: https://www.dushu.com
-
-    - name: 三秋书屋
-      style: basic
-      url: https://www.d4j.cn
-
-    - name: FabrizioPaterlini
-      style: basic
-      url: http://www.fabriziopaterlini.com/
-
-    - name: CNU视觉
-      style: basic
-      url: http://www.cnu.cc/
-
-    - name: 画旅途
-      style: basic
-      url: http://www.hualvtu.com/
-
-    - name: KajaRata
-      style: basic
-      url: https://kajarata.com/
-
-    - name: Legacy
-      style: black
-      url: https://legacygallery.com
-
-    - name: Keithnash
-      style: basic
-      url: https://www.keithnash.co.uk
-
-    - name: 理想国
-      style: basic
-      url: http://www.ilixiangguo.com/
-
-    - name: 心理学空间
-      style: basic
-      url: https://www.psychspace.com/
-
-    - name: 壹心理
-      style: basic
-      url: http://www.xinli001.com/
-
-    - name: SoBook
-      style: basic
-      url: https://sobooks.cc/
-
-    - name: Perkinson
-      style: basic
-      url: http://tomperkinson.com
- 
-    - name: MetalTomArchives
-      style: basic
-      url: https://www.metal-archives.com/
-
-    - name: WeRaveYou
-      style: blue
-      url: https://weraveyou.com/
-
-    - name: TomorrowLand
-      style: basic
-      url: https://www.tomorrowland.com/global/
-
-    - name: TrancePodium
-      style: basic
-      url: http://www.trancepodium.com/
-
-    - name: n5md厂牌
-      style: basic
-      url: https://n5md.com/
 
   - name: 趣站
     links:

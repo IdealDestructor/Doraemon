@@ -103,7 +103,7 @@
   url: https://www.etymonline.com/index.php?search=
 
 - id: mw
-  name: Merriam-Webster
+  name: Merriam-Web
   url: https://www.merriam-webster.com/dictionary/
 
 - id: tianyancha
@@ -192,7 +192,7 @@
   url: http://www.szhongzi.com/so.php?wd=
 
 - id: bigwork
-  name: 大作BigWork
+  name: 大作
   url: http://www.bigbigwork.com/tupian/?w=
 
 - id: mijisou
@@ -257,4 +257,4 @@
   url: https://translate.google.cn/#view=home&op=translate&sl=auto&tl=zh-CN&text=
   shortcut:
     icon: language
-    style: blue
+    style: black
