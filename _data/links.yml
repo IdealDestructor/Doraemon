@@ -527,6 +527,10 @@
       style: teal
       url: https://zhaodao.ai/
 
+    - name: 高效生活研究所
+      style: green
+      url: https://topbook.cc/
+
     - name: ProductHunt
       style: basic
       url: https://www.producthunt.com/
@@ -538,10 +542,6 @@
     - name: NEXT
       style: basic
       url: https://next.36kr.com/posts
-
-    - name: 果汁
-      style: basic
-      url: http://guozhivip.com/nav/lab.html
 
     - name: 七麦
       icon: app store
@@ -566,7 +566,7 @@
 
     - name: 大作
       style: basic
-      url: http://www.bigbigwork.com/
+      url: http://www.bigbigwork.com/nav/4.html
 
     - name: ZOSCAPE
       style: basic
@@ -667,6 +667,14 @@
     - name: 全历史
       style: basic
       url: https://www.allhistory.com/
+
+    - name: 中华珍宝馆
+      style: basic
+      url: http://www.ltfc.net/
+
+    - name: 发现中国
+      style: basic
+      url: https://www.ageeye.cn/
 
     - name: WikiArt
       style: basic
@@ -911,7 +919,7 @@
 
     - name: 纪录片
       style: basic
-      url: https://www.onehourlife.com
+      url: https://www.onehourlife.net
 
 #     - name: 猪猪
 #       style: purple
@@ -998,6 +1006,10 @@
       style: basic
       url: https://www.egouz.com/
 
+    - name: 果汁实验室
+      style: basic
+      url: http://guozhivip.com/lab/
+
     - name: NewLife
       style: basic
       url: https://newlife.ai/
@@ -1009,6 +1021,10 @@
     - name: 唤醒食物
       style: green
       url: http://www.foodwake.com/
+
+    - name: 医学微视
+      style: green
+      url: https://www.mvyxws.com/
 
     - name: 虫部落
       style: basic
@@ -1077,6 +1093,14 @@
     - name: EarthData
       style: basic
       url: https://earthdata.nasa.gov
+
+    - name: 全景平台
+      style: basic
+      url: https://720yun.com/channel
+
+    - name: 航拍社区
+      style: basic
+      url: https://www.skypixel.com/
 
     - name: iPanda
       style: basic
