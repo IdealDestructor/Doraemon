@@ -1044,7 +1044,7 @@
 
     - name: MikuTools
       style: basic
-      url: https://miku.tools/
+      url: https://tools.miku.ac/
 
     - name: 故障艺术
       style: basic
