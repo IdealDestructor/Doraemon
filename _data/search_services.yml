@@ -168,20 +168,19 @@
   url: https://www.lingfengyun.com/search?wd=
   suffix: so_token=b91cf6b88266eddfd9a7b1ad0af18936&so_source=1
 
-- id: cilimao
-  name: 磁力猫
-  url: https://www.cilimao.cc/search?word=
+- id: ciligou
+  name: 磁力狗
+  url: https://ciligou.app/search?word=
   shortcut:
     icon: magnet red inverted
     style: black
-
-- id: lime
-  name: Lime Torrents
-  url: https://www.limetorrents.cc/search/all/
-  suffix: "/"
-  shortcut:
-    icon: lemon green inverted
-    style: black
+# - id: lime
+#   name: Lime Torrents
+#   url: https://www.limetorrents.cc/search/all/
+#   suffix: "/"
+#   shortcut:
+#     icon: lemon green inverted
+#     style: black
 
 - id: onejav
   name: OneJav
