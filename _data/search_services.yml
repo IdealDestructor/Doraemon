@@ -42,7 +42,7 @@
   #   style: black
 
 - id: stackoverflow
-  name: Stack Overflow
+  name: StackOverflow
   url: https://stackoverflow.com/search?q=
   shortcut:
     icon: stack overflow orange inverted
@@ -103,7 +103,7 @@
   url: https://www.etymonline.com/index.php?search=
 
 - id: mw
-  name: Merriam-Web
+  name: Merriam
   url: https://www.merriam-webster.com/dictionary/
 
 - id: tianyancha
