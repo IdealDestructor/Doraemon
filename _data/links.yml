@@ -91,6 +91,10 @@
       style: basic
       url: https://techcrunch.com/
 
+    - name: 雷锋网
+      style: orange
+      url: https://www.leiphone.com/
+
     - name: Feeder
       icon: feeder orange
       style: basic
