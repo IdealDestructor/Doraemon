@@ -23,12 +23,11 @@
 	<div class="ui inverted fluid left icon right action input" id="search-div">
 		<i class="search icon"></i>
 		<input id="search-query" type="text" placeholder="立即搜索" autofocus="autofocus">
-		<div style="min-width: 120px;"><select style="min-width: 120px;" id="search-services" class="ui compact selection dropdown">
+		<div style="min-height: 100px;min-height: 40px;"><select style="min-width: 120px;" id="search-services" class="ui compact selection dropdown">
 			{% for item in site.data.search_services %}<option id="{{ item.id }}" value="{{ item.id }}" data-url="{{ item.url }}"
 			 data-suffix="{% if item.suffix %}{{ item.suffix }}{% endif %}" data-transcode-from="{% if item.transcode %}{{ item.transcode.from }}{% endif %}"
 			 data-transcode-to="{% if item.transcode %}{{ item.transcode.to }}{% endif %}">{{ item.name }}</option>{% endfor %}
-		</select>
-		</div>
+		</select></div>
 		<div id="search-button" class="ui black icon button"><img style="height: 18px;width: 18px;" src="../images/search.png" /></div>
 	</div>
 	<div class="ui labels shortcuts">
