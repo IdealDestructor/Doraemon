@@ -42,7 +42,7 @@
   #   style: black
 
 - id: stackoverflow
-  name: StackOverflow
+  name: 栈溢出
   url: https://stackoverflow.com/search?q=
   shortcut:
     icon: stack overflow orange inverted
@@ -95,7 +95,7 @@
   url: https://scholar.google.com/scholar?q=
 
 - id: ieeexplore
-  name: IEEE Xplore
+  name: IEEEXplore
   url: http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=
 
 - id: etymonline
@@ -206,7 +206,7 @@
   url: https://www.dogedoge.com/results?q=
 
 - id: googlecn
-  name: Google代理
+  name: GoogleCN
   url: https://google.wanghualang.com/search?newwindow=1&q=
   # shortcut:
   #   icon: newspaper blue inverted
