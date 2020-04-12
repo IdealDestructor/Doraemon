@@ -688,11 +688,6 @@
       style: basic
       url: https://drawingacademy.com
 
-    - name: IMDB
-      icon: imdb yellow
-      style: basic
-      url: https://www.imdb.com/
-
     - name: saraNightingale
       style: basic
       url: http://www.saranightingale.com/
@@ -925,14 +920,18 @@
       style: basic
       url: https://www.onehourlife.net
 
-#     - name: 猪猪
-#       style: purple
-#       url: http://www.zzrbl.com/
-# 
-#     - name: 幻樱
-#       style: pink
-#       url: http://www.hysub.net/
-# 
+    - name: Bangumi
+      style: purple
+      url: http://bangumi.tv/
+
+    # - name: 幻樱
+    #   style: pink
+    #   url: http://www.hysub.net/
+    - name: IMDB
+      icon: imdb yellow
+      style: basic
+      url: https://www.imdb.com/
+
     - name: Steam
       style: basic
       icon: steam blue
