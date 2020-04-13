@@ -354,6 +354,10 @@
       style: basic
       url: http://www.zhishifenzi.com/
 
+    - name: 图灵社区
+      style: basic
+      url: https://www.ituring.com.cn/
+
     - name: 外刊
       style: basic
       url: http://www.waikanwu.com/
