@@ -67,6 +67,10 @@
       style: basic
       url: https://www.theverge.com/
 
+    - name: universal-sci
+      style: basic
+      url: https://www.universal-sci.com/
+
     - name: 财新
       style: basic
       url: http://www.caixin.com/
@@ -413,6 +417,10 @@
       style: basic
       url: https://github.com/
 
+    - name: Learnku
+      style: basic
+      url: https://learnku.com/
+
     - name: 菜鸟教程
       style: green
       url: https://www.runoob.com/
@@ -502,6 +510,14 @@
     - name: 发现小众
       style: basic
       url: https://faxian.appinn.com/
+
+    - name: 新趣集
+      style: basic
+      url: https://xinquji.com/
+
+    - name: 最美应用
+      style: basic
+      url: http://zuimeia.com/
 
     - name: 阿猫
       style: basic
@@ -680,6 +696,10 @@
       style: basic
       url: http://www.ltfc.net/
 
+    - name: 古籍
+      style: basic
+      url: http://www.guji.cn/
+
     - name: 发现中国
       style: basic
       url: https://www.ageeye.cn/
@@ -780,6 +800,10 @@
     - name: 壹心理
       style: basic
       url: http://www.xinli001.com/
+
+    - name: 爱思想
+      style: basic
+      url: http://www.aisixiang.com/
 
     - name: SoBook
       style: basic
@@ -923,6 +947,10 @@
     - name: 纪录片
       style: basic
       url: https://www.onehourlife.net
+
+    - name: MTV
+      style: basic
+      url: http://www.mtv.be/
 
     - name: Bangumi
       style: purple
