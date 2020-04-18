@@ -271,8 +271,12 @@
     - name: GitBook
       icon: book blue
       style: basic
-      url: https://www.gitbook.com/
-    
+      url: https://www.gitbook.com/   
+
+    - name: MyGraphPaper
+      style: basic
+      url: https://www.mygraphpaper.com/index.php?lang=zh-hans
+
     - name: 简书
       style: basic
       url: https://www.jianshu.com/
@@ -487,6 +491,14 @@
     - name: AI量化
       style: basic
       url: https://bigquant.com
+    
+    - name: 踏得网
+      style: basic
+      url: https://techbrood.com/
+    
+    - name: JSRun
+      style: basic
+      url: http://jsrun.net/
 
     - name: 开发工具箱
       style: basic
