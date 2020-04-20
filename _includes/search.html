@@ -23,7 +23,7 @@
 	<div class="ui inverted fluid left icon right action input" id="search-div">
 		<i class="search icon"></i>
 		<input id="search-query" type="text" placeholder="立即搜索" autofocus="autofocus">
-		<select id="search-services" class="ui compact selection dropdown">
+		<select style="height: 41px;padding: 0;" id="search-services" class="ui compact selection dropdown">
 			{% for item in site.data.search_services %}<option id="{{ item.id }}" value="{{ item.id }}" data-url="{{ item.url }}"
 			 data-suffix="{% if item.suffix %}{{ item.suffix }}{% endif %}" data-transcode-from="{% if item.transcode %}{{ item.transcode.from }}{% endif %}"
 			 data-transcode-to="{% if item.transcode %}{{ item.transcode.to }}{% endif %}">{{ item.name }}</option>{% endfor %}
@@ -44,6 +44,6 @@
         <a id="live-visitors" href="{{ '/analytics/' | relative_url }}"><img src="https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E5%9C%A8%E7%BA%BF-loading-orange.svg" alt="Live Visitors"></a>
     </div>-->
 	<div style="margin-top: 10rem;text-align: center;">
-			<a class="item" style="width:180px;font-size: 12px;opacity: 0.2;color:white" href="http://beian.miit.gov.cn/">津ICP备16009041号-5</a>
+		<a class="item" style="width:180px;font-size: 12px;opacity: 0.2;color:white" href="http://beian.miit.gov.cn/">津ICP备16009041号-5</a>
 	</div>
 </div>
