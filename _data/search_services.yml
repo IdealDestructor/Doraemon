@@ -37,9 +37,9 @@
 - id: github
   name: GitHub
   url: https://github.com/search?q=
-  # shortcut:
-  #   icon: github
-  #   style: black
+  shortcut:
+    icon: github
+    style: black
 
 - id: stackoverflow
   name: 栈溢出
@@ -128,9 +128,6 @@
 - id: xiami
   name: 虾米音乐
   url: http://www.xiami.com/search?key=
-  # shortcut:
-  #   icon: music orange inverted
-  #   style: black
 
 - id: bilibili
   name: 哔哩哔哩
@@ -142,9 +139,9 @@
 - id: fixzimuxia
   name: FIX字幕侠
   url: http://www.zimuxia.cn/?s=
-  shortcut:
-    icon: closed captioning yellow inverted
-    style: black
+  # shortcut:
+  #   icon: closed captioning yellow inverted
+  #   style: black
 
 - id: fkdy
   name: 影视
@@ -174,13 +171,6 @@
   shortcut:
     icon: magnet red inverted
     style: black
-# - id: lime
-#   name: Lime Torrents
-#   url: https://www.limetorrents.cc/search/all/
-#   suffix: "/"
-#   shortcut:
-#     icon: lemon green inverted
-#     style: black
 
 - id: onejav
   name: OneJav
