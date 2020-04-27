@@ -52,7 +52,7 @@ function updateVisit() {
         $('#live-visitors img').attr('src', 'https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E5%9C%A8%E7%BA%BF-' + encodeURIComponent(data[0].visitors) + '-brightgreen.svg');
     });
 };
-updateVisit();
+//updateVisit();
 setInterval(function () {
     if (!document.hidden) {
         updateVisit();

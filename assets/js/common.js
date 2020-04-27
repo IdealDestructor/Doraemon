@@ -66,7 +66,7 @@ function updateAnalytics() {
         $('#today-actions').text(data.value);
     });
 };
-updateAnalytics();
+//updateAnalytics();
 setInterval(function () {
     if (!document.hidden) {
         updateAnalytics();
