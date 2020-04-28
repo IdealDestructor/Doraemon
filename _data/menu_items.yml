@@ -1,7 +1,7 @@
-# - name: 首页
-#   icon: home
-#   url: /
-#   active_key: home
+- name: 首页
+  icon: home
+  url: /
+  active_key: home
 
 # - name: 定制化
 #   icon: tools
@@ -13,7 +13,7 @@
 #   url: /analytics/
 #   active_key: analytics
 
-# - name: 捐赠
-#   icon: donate
-#   url: /donate/
-#   active_key: donate
+- name: 捐赠
+  icon: donate
+  url: /donate/
+  active_key: donate
