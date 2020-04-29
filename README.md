@@ -43,7 +43,7 @@ git clone https://github.com/IdealDestructor/navi.git
 4. Change into the project directory.
 
 ```sh
-cd duolaso
+cd navi
 ```
 
 5. Install required gems in the `Gemfile` using Bundler.
