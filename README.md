@@ -37,7 +37,7 @@ gem install jekyll bundler
 3. Clone the project from GitHub.
 
 ```sh
-git clone https://github.com/duolaso/duolaso.git
+git clone https://github.com/IdealDestructor/navi.git
 ```
 
 4. Change into the project directory.
