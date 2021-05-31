@@ -952,13 +952,13 @@
       style: yellow
       url: http://www.zimuxia.cn/
 
-    - name: NoVIP
-      style: basic
-      url: https://www.novipnoad.com/
+#     - name: NoVIP
+#       style: basic
+#       url: https://www.novipnoad.com/
 
-    - name: 全能解析
-      style: black
-      url: https://vip.ccava.net
+#     - name: 全能解析
+#       style: black
+#       url: https://vip.ccava.net
 
     - name: 纪录片
       style: basic
@@ -1004,10 +1004,6 @@
     - name: 搜奇1库
       style: basic
       url: https://www.sq1k.cc/
-
-    - name: SoulTaste
-      style: basic
-      url: http://www.soultaste.cn
 
     - name: Twitch
       icon: twitch purple
