@@ -108,6 +108,10 @@
       style: basic
       url: https://sputniknews.com/
 
+    - name: 中美印象
+      style: basic
+      url: https://uscnpm.com/
+
     - name: 后续
       style: black
       url: https://houxu.app/
@@ -515,6 +519,10 @@
       style: basic
       url: http://www.woshipm.com/
 
+    - name: Engadget
+      style: basic
+      url: https://cn.engadget.com/
+
     - name: 经理人分享
       style: basic
       url: http://www.managershare.com/
@@ -678,6 +686,10 @@
       style: basic
       url: https://www.pixiv.net/
 
+    - name: Duotone
+      style: basic
+      url: https://duotones.co/
+
     - name: Unsplash
       style: basic
       url: https://unsplash.com/
@@ -703,6 +715,10 @@
     - name: Frederick
       style: basic
       url: http://www.lindenfrederick.com/
+
+    - name: 世界数字图书馆
+      style: basic
+      url: https://www.wdl.org/zh/
 
     - name: 全历史
       style: basic
@@ -952,13 +968,9 @@
       style: yellow
       url: http://www.zimuxia.cn/
 
-#     - name: NoVIP
-#       style: basic
-#       url: https://www.novipnoad.com/
-
-#     - name: 全能解析
-#       style: black
-#       url: https://vip.ccava.net
+    - name: NoVIP
+      style: basic
+      url: https://www.novipnoad.com/
 
     - name: 纪录片
       style: basic
@@ -1196,3 +1208,11 @@
     - name: Indienova
       style: basic
       url: https://indienova.com/
+
+    - name: WindowSwap
+      style: basic
+      url: https://www.window-swap.com/
+
+    - name: 海の見える駅
+      style: basic
+      url: https://seaside-station.com/
