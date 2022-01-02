@@ -18,10 +18,10 @@ organization: ~Ideal()
 organization_url: http://www.idealdestructor.com
 contact: contact[at]idealdestructor[dot]com
 
-image: https://navi.idealdestructor.com/images/logo.gif
-logo: https://navi.idealdestructor.com/images/logo.gif
-logo_dark: https://navi.idealdestructor.com/images/logo-dark.svg
-logo_white: https://navi.idealdestructor.com/images/logo-white.svg
+image: https://so.idealdestructor.com/images/logo.gif
+logo: https://so.idealdestructor.com/images/logo.gif
+logo_dark: https://so.idealdestructor.com/images/logo-dark.svg
+logo_white: https://so.idealdestructor.com/images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag
