@@ -32,12 +32,12 @@
         {{ content }}
     </div>
     <script type="text/javascript" src="//unpkg.zhimg.com/jquery/dist/jquery.min.js"></script>
-    <script type="text/javascript" src="//unpkg.zhimg.com/fomantic-ui/dist/semantic.min.js"></script>
+    <script type="text/javascript" src="//cdn.bootcdn.net/ajax/libs/fomantic-ui/2.8.8/semantic.min.js"></script>
     <script type="text/javascript" src="{{ '/assets/js/common.js' | relative_url }}"></script>
-    {% if page.active_key == 'home' %}<script type="text/javascript" src="//unpkg.zhimg.com/dayjs/dayjs.min.js"></script>{% endif %}
-    {% if page.active_key == 'home' %}<script type="text/javascript" src="//unpkg.zhimg.com/dayjs/locale/zh-cn.js"></script>{% endif %}
+    {% if page.active_key == 'home' %}<script type="text/javascript" src="//cdn.bootcdn.net/ajax/libs/dayjs/1.11.0/locale/zh.min.js"></script>{% endif %}
+    {% if page.active_key == 'home' %}<script type="text/javascript" src="//cdn.bootcdn.net/ajax/libs/dayjs/1.11.0/locale/zh.js"></script>{% endif %}
     {% if page.active_key == 'home' %}<script type="text/javascript" src="//unpkg.zhimg.com/dayjs/plugin/relativeTime.js"></script>{% endif %}
-    {% if page.active_key == 'home' %}<script type="text/javascript" src="//unpkg.zhimg.com/js-cookie/src/js.cookie.js"></script>{% endif %}
+    {% if page.active_key == 'home' %}<script type="text/javascript" src="//cdn.bootcdn.net/ajax/libs/js-cookie/3.0.1/js.cookie.js"></script>{% endif %}
     {% if page.active_key == 'home' %}<script type="text/javascript" src="{{ '/assets/js/suggest-query.min.js' | relative_url }}"></script>{% endif %}
     {% if page.active_key == 'home' and site.data.banner.hitokoto %}<script type="text/javascript" src="{{ '/assets/js/hitokoto.js' | relative_url }}"></script>{% endif %}
     {% if page.active_key == 'home' %}<script type="text/javascript" src="{{ '/assets/js/home.js' | relative_url }}"></script>{% endif %}
