@@ -20,8 +20,8 @@ contact: contact[at]idealdestructor[dot]com
 
 image: https://idealdestructor.github.io/Doraemon/images/logo.gif
 logo: https://idealdestructor.github.io/Doraemon/images/logo.gif
-logo_dark: https://so.idealdestructor.com/images/logo-dark.svg
-logo_white: https://so.idealdestructor.com/images/logo-white.svg
+logo_dark: http://idealdestructor.github.io/Doraemon/images/logo-dark.svg
+logo_white: http://idealdestructor.github.io/Doraemon/images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag
