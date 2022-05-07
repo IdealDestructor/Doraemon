@@ -9,17 +9,17 @@ alias_en: Doraemon Search
 alias_cn: 哆啦a梦搜索
 description: 析构理想
 keywords: 搜索导航,哆啦,哆啦a梦
-url: https://so.idealdestructor.com/
+url: https://idealdestructor.github.io/Doraemon
 established_at: "2019-06-11T00:00+08:00"
 
 author: IdealDestructor
 author_url: https://deqiang.wang
 organization: ~Ideal()
-organization_url: http://www.idealdestructor.com
+organization_url: https://idealdestructor.github.io/Doraemon
 contact: contact[at]idealdestructor[dot]com
 
-image: https://so.idealdestructor.com/images/logo.gif
-logo: https://so.idealdestructor.com/images/logo.gif
+image: https://idealdestructor.github.io/Doraemon/images/logo.gif
+logo: https://idealdestructor.github.io/Doraemon/images/logo.gif
 logo_dark: https://so.idealdestructor.com/images/logo-dark.svg
 logo_white: https://so.idealdestructor.com/images/logo-white.svg
 
