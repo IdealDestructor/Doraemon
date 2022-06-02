@@ -4,12 +4,12 @@ repository_url: https://github.com/idealdestructor/doraemon
 timezone:
 lang: zh_CN
 
-title: 哆啦a梦搜索
+title: 哆啦A梦搜索
 alias_en: Doraemon Search
-alias_cn: 哆啦a梦搜索
+alias_cn: 哆啦A梦搜索
 description: 析构理想
-keywords: 搜索导航,哆啦,哆啦a梦
-url: https://idealdestructor.github.io/doraemon
+keywords: 搜索导航,哆啦,哆啦A梦
+url: https://idealdestructor.github.io/Doraemon
 established_at: "2019-06-11T00:00+08:00"
 
 author: IdealDestructor
@@ -18,10 +18,10 @@ organization: ~Ideal()
 organization_url: http://idealdestructor.github.io
 contact: contact[at]idealdestructor[dot]github[dot]io
 
-image: https://idealdestructor.github.io/doraemon/images/logo.gif
-logo: https://idealdestructor.github.io/doraemon/logo.gif
-logo_dark: https://idealdestructor.github.io/doraemon/images/logo-dark.svg
-logo_white: https://idealdestructor.github.io/doraemon/images/logo-white.svg
+image: https://idealdestructor.github.io/Doraemon/images/logo.gif
+logo: https://idealdestructor.github.io/Doraemon/logo.gif
+logo_dark: https://idealdestructor.github.io/Doraemon/images/logo-dark.svg
+logo_white: https://idealdestructor.github.io/Doraemon/images/logo-white.svg
 
 plugins:
 - jekyll-seo-tag
