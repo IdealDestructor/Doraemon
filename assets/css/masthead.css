@@ -2,130 +2,121 @@
 
 .ui.inverted.masthead.segment.zoomed h1.ui.header,
 .ui.inverted.masthead.segment.zoomed h2.ui.header {
-    text-shadow: 0px 0px 4px rgba(0, 0, 0, 0);
-    color: rgba(255, 255, 255, 1);
+  text-shadow: 0px 0px 4px rgba(0, 0, 0, 0);
+  color: rgba(255, 255, 255, 1);
 }
 .ui.inverted.masthead.segment.zoomed:after {
-    opacity: 0;
+  opacity: 0;
 }
 .ui.inverted.masthead.segment.zoomed {
-    background-color: #1B1C1D;
+  background-color: #1b1c1d;
 }
 .ui.inverted.masthead.segment {
-    position: relative;
-    text-align: center;
-    color: rgba(255, 255, 255, 0.9);
-    margin-bottom: 0px;
-    border-bottom: none;
-    background-color: #1B1C1D;
-    background-position: 50% 50%;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
+  position: relative;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 0px;
+  border-bottom: none;
+  background-color: #1b1c1d;
+  background-position: 50% 50%;
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
 }
 .ui.inverted.masthead.segment:after {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    z-index: -1;
-    width: 100%;
-    height: 100%;
-    content: '';
-    background-size: cover;
-    opacity: 0.45;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  content: "";
+  background-size: cover;
+  opacity: 0.45;
 }
 .ui.inverted.masthead.segment.bg1:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?nature");
 }
 .ui.inverted.masthead.segment.bg2:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?landscape");
 }
 .ui.inverted.masthead.segment.bg3:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?city");
 }
 .ui.inverted.masthead.segment.bg4:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?architecture");
 }
 .ui.inverted.masthead.segment.bg5:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?travel");
 }
 .ui.inverted.masthead.segment.bg6:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?space");
 }
 .ui.inverted.masthead.segment.bg7:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?mountain");
 }
 .ui.inverted.masthead.segment.bg8:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?ocean");
 }
 .ui.inverted.masthead.segment.bg9:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?forest");
 }
 .ui.inverted.masthead.segment.bg10:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?sunset");
 }
 .ui.inverted.masthead.segment.bg11:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?beach");
 }
 .ui.inverted.masthead.segment.bg12:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?night");
 }
 .ui.inverted.masthead.segment.bg13:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?sky");
 }
 .ui.inverted.masthead.segment.bg14:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?abstract");
 }
 .ui.inverted.masthead.segment.bg15:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?technology");
 }
 .ui.inverted.masthead.segment.bg16:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?minimal");
 }
 .ui.inverted.masthead.segment.bg17:after {
-    background-image: url('https://api.cyrilstudio.top/bing/image.php/bing?rand=true');
+  background-image: url("https://source.unsplash.com/random/3840x2160/?wallpaper");
 }
 .ui.inverted.masthead.segment,
 .ui.inverted.masthead.segment:after {
-    -ms-transition:
-        background 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
-    -moz-transition:
-        background 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
-    -webkit-transition:
-        background 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
-    transition:
-        background 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
-    transition:
-        background 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
-    -ms-transition:
-        background 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
-    -moz-transition:
-        background 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
-    -webkit-transition:
-        background 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
-    transition:
-        background 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s,
-        opacity 6s cubic-bezier(0.680, -0.550, 0.265, 1.4) 0s;
+  -ms-transition: background 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s,
+    opacity 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s;
+  -moz-transition: background 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s,
+    opacity 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s;
+  -webkit-transition: background 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s,
+    opacity 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s;
+  transition: background 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s,
+    opacity 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s;
+  transition: background 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s,
+    opacity 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s;
+  -ms-transition: background 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s,
+    opacity 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s;
+  -moz-transition: background 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s,
+    opacity 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s;
+  -webkit-transition: background 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s,
+    opacity 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s;
+  transition: background 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s,
+    opacity 6s cubic-bezier(0.68, -0.55, 0.265, 1.4) 0s;
 }
 .pusher .ui.inverted.menu {
-    background: none;
+  background: none;
 }
 .ui.masthead h1.ui.header:not(.logo) {
-    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-    -moz-transform-style: preserve-3d;
-    -webkit-transform-style: preserve-3d;
-    transform-style: preserve-3d;
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  -moz-transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
 }
 .ui.masthead h2.ui.header {
-    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-    -moz-transform-style: preserve-3d;
-    -webkit-transform-style: preserve-3d;
-    transform-style: preserve-3d;
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  -moz-transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
 }
