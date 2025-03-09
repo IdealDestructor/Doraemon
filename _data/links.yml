@@ -42,7 +42,7 @@
       style: basic
       url: http://www.dgtle.com/
 
-    - name: 好奇心日报
+    - name: 好奇日报
       style: orange
       url: https://www.qdaily.com/
 
@@ -70,6 +70,14 @@
     - name: universal-sci
       style: basic
       url: https://www.universal-sci.com/
+
+    - name: 大象公会
+      style: basic
+      url: https://www.idaoxiang.com/
+
+    - name: 界面新闻
+      style: basic
+      url: https://www.jiemian.com/
 
     - name: 财新
       style: basic
@@ -250,6 +258,14 @@
     - name: 煎蛋
       style: yellow
       url: http://jandan.net/
+      
+    - name: Matters
+      style: basic
+      url: https://matters.news/
+      
+    - name: 即刻
+      style: basic
+      url: https://web.okjike.com/
 
 - categories:
   - name: 学习
@@ -385,6 +401,70 @@
     - name: PaperWeekly
       style: basic
       url: https://www.paperweekly.site
+      
+    - name: 小鸡词典
+      style: basic
+      url: https://jikipedia.com/
+      
+    - name: 回形针手册
+      style: basic
+      url: https://ipaperclip.net/
+      
+    - name: Z-Library
+      style: basic
+      url: https://z-lib.id/
+      
+    - name: Kaggle
+      style: basic
+      url: https://www.kaggle.com/
+      
+    - name: ML Resources
+      style: basic
+      url: https://ml-resources.vercel.app/
+      
+    - name: 深入浅出PyTorch
+      style: basic
+      url: https://datawhalechina.github.io/thorough-pytorch/index.html
+      
+    - name: DeepLearning.AI
+      style: basic
+      url: https://www.deeplearning.ai/
+      
+    - name: AI Python for Beginners
+      style: basic
+      url: https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
+      
+    - name: Colossal-AI
+      style: basic
+      url: https://colossalai.org/zh-Hans/
+      
+    - name: 产品经理的AI学习库
+      style: basic
+      url: https://easyai.tech/
+      
+    - name: 鱼聪明AI
+      style: basic
+      url: https://www.yucongming.com/
+      
+    - name: AskManyAI
+      style: basic
+      url: https://askmanyai.cn/
+      
+    - name: 网易天音
+      style: basic
+      url: https://tianyin.music.163.com/editor/
+      
+    - name: Mapify思维导图
+      style: basic
+      url: https://mapify.so/cn/app/new
+      
+    - name: Bing AI
+      style: basic
+      url: https://www.bing.com/search?q=Bing+AI&showconv=1
+      
+    - name: Civitai
+      style: basic
+      url: https://civitai.com/
 
   - name: 开发
     links:
@@ -409,6 +489,10 @@
       icon: angle double down blue
       style: basic
       url: https://juejin.im/
+      
+    - name: 稀土掘金大模型子站
+      style: basic
+      url: https://llm.juejin.cn/
 
     - name: LeetCode
       icon: terminal
@@ -495,6 +579,14 @@
     - name: 前端导航
       style: basic
       url: https://nav.web-hub.cn/
+      
+    - name: Glitch
+      style: basic
+      url: https://glitch.com/
+      
+    - name: CodePen
+      style: basic
+      url: https://codepen.io/
     
     - name: AI量化
       style: basic
@@ -693,6 +785,14 @@
     - name: Unsplash
       style: basic
       url: https://unsplash.com/
+      
+    - name: UI中国
+      style: basic
+      url: https://www.ui.cn/
+      
+    - name: 站酷
+      style: basic
+      url: https://www.zcool.com.cn/
 
   - name: 文艺/创作
     links:
@@ -719,6 +819,14 @@
     - name: 世界数字图书馆
       style: basic
       url: https://www.wdl.org/zh/
+      
+    - name: 音乐博物馆
+      style: basic
+      url: https://musiclab.chromeexperiments.com/
+      
+    - name: 每日一文
+      style: basic
+      url: https://meiriyiwen.com/
 
     - name: 全历史
       style: basic
@@ -1216,3 +1324,27 @@
     - name: 海の見える駅
       style: basic
       url: https://seaside-station.com/
+      
+    - name: 小众软件
+      style: basic
+      url: https://www.appinn.com/
+      
+    - name: 数字敦煌
+      style: basic
+      url: https://www.e-dunhuang.com/
+      
+    - name: 标准地图服务
+      style: basic
+      url: http://bzdt.ch.mnr.gov.cn/
+      
+    - name: 全历史
+      style: basic
+      url: https://www.allhistory.com/
+
+    - name: 中国哲学书电子化计划
+      style: basic
+      url: https://ctext.org/zh
+      - name: 稀土掘金
+      style: basic
+      url: https://juejin.cn/
+      - name: Obsidian中文社区
