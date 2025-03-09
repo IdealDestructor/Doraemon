@@ -644,6 +644,18 @@
           style: basic
           url: https://cn.vitejs.dev/guide/
 
+        - name: MDN Web Docs
+          style: blue
+          url: https://developer.mozilla.org/zh-CN/
+
+        - name: Artvee
+          style: purple
+          url: https://artvee.com/
+
+        - name: Obsidian中文论坛
+          style: green
+          url: https://forum-zh.obsidian.md/
+
         - name: Vuetify
           style: basic
           url: https://vuetifyjs.com/zh-Hans/components/all/
