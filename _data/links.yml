@@ -604,6 +604,58 @@
       style: basic
       url: https://www.toolfk.com
 
+    - name: three.js
+      style: basic
+      url: https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene
+
+    - name: Node
+      style: basic
+      url: https://www.nodeapp.cn/
+
+    - name: Sass
+      style: basic
+      url: https://www.sass.hk/docs/
+
+    - name: Electron
+      style: basic
+      url: https://www.electronjs.org/zh/docs/latest/
+
+    - name: Next.js
+      style: basic
+      url: https://www.nextjs.cn/docs/getting-started
+
+    - name: electron-vite
+      style: basic
+      url: https://cn.electron-vite.org/
+
+    - name: NestJS
+      style: basic
+      url: https://docs.nestjs.cn/10/firststeps
+
+    - name: Babylon.js
+      style: basic
+      url: https://www.babylonjs.com/
+
+    - name: PixiJS
+      style: basic
+      url: https://pixijs.com/
+
+    - name: Vite
+      style: basic
+      url: https://cn.vitejs.dev/guide/
+
+    - name: Vuetify
+      style: basic
+      url: https://vuetifyjs.com/zh-Hans/components/all/
+
+    - name: Shadertoy
+      style: basic
+      url: https://www.shadertoy.com/
+
+    - name: The Book of Shaders
+      style: basic
+      url: https://thebookofshaders.com/?lan=ch
+
 - categories:
   - name: 产品/设计
     links:
@@ -1344,7 +1396,8 @@
     - name: 中国哲学书电子化计划
       style: basic
       url: https://ctext.org/zh
-      - name: 稀土掘金
+    
+    - name: 稀土掘金
       style: basic
       url: https://juejin.cn/
       - name: Obsidian中文社区
